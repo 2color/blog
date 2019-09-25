@@ -1,13 +1,24 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+title: 'About me'
+template: 'page'
+socialImage: ''
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm a software engineer, writer, public speaker, and maker.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I take joy in solving complex problems with elegant solutions by simplifying and distilling core concepts.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I've worked at early stage startups and in the Open Source space building products iteratively.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I'm an effective communicator and thrive in cross-functional teams. I enjoy learning and teaching and see it as an integral part of team work.
+I combine those skills with teamwork and a strong understanding of the organizational structure to work efficiently and pragmatically in alignment with business goals.
+
+I'm proficient in full stack development and DevOps in cloud enviornments with a track record of owning the full cycle from idea to production and owning operating services using many of the [SRE](https://landing.google.com/sre/books/) principles.
+
+I take an active interest in technology, economics, psychology, arts, and how their conflation impacts society.
+
+The methodological and interpersonal aspect of software engineering has always interested me. My work in cross-functional teams has been a constant learning process, in which I grew professionally and interpersonally.
+
+I'm a proponent of the open source software and have contributed to several projects in addition to maintaining several open source projects.
+
+When I'm not working in front of screen, I enjoy furniture design and woodworking, bicycle mechanics and restoration, and motorcylcing.
