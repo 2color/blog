@@ -12,12 +12,16 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Woodworking',
+      path: '/tag/woodworking'
     }
   ],
   author: {
@@ -33,7 +37,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'danorman',
-      instagram: '#',
+      instagram: '2colorme',
       line: '',
       gitlab: '',
       weibo: ''
