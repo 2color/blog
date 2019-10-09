@@ -2,7 +2,7 @@
 slug: mechanisms-to-climate-change-and-externalities
 date: 2019-10-09T13:46:57.380Z
 title: Mechanisms to tackle climate change
-description: ''
+description: 'An exploration of the tools at hand'
 category: 'Blog'
 tags: []
 template: 'post'
@@ -75,11 +75,7 @@ International treaties are another mechanism to combat global warming. The Paris
 
 There's a growing sentiment that Capitalism is broken and that the pursuit of eternal economic growth is futile if not morally corrupt. Interestingly, this sentiment has originated in some of the most prosperous corners of the developed world. The distaste for greed and all other excesses of Capitalism created a marriage between the social justice movement and the environmental movement. That is how I believe the term climate justice came into existence. Greta Thunberg's speech is the epitome of that.
 
-Perhaps it's a distate for the system as a whole. But it's hard to look at the data, and ignore the [progress we're making](https://ourworldindata.org/12-key-metrics). The mean years of schooling are a key component to that development:
-
-<iframe src="https://ourworldindata.org/grapher/mean-years-of-schooling-long-run" style="display: block; width: 100%; height: 600px; border: 0px none;"></iframe>
-
-There's a commonly held belief that we must abolish the market economy to reduce our carbon footprint. This belief is at odds with the [overwhelming agreement amongst economists](https://www.clcouncil.org/economists-statement/) that carbon taxes are the most efficient and effective way to curb climate change, with the least adverse effects on the economy the effectiveness.
+There's a commonly held belief that we must abolish the market economy to reduce our carbon footprint. Perhaps it's a distate for the system as a whole. But it's hard to look at the data, and ignore the [progress we're making](https://ourworldindata.org/12-key-metrics). This belief is also at odds with the [overwhelming agreement amongst economists](https://www.clcouncil.org/economists-statement/) that carbon taxes are the most efficient and effective way to curb climate change, with the least adverse effects on the economy the effectiveness.
 
 There's already an understanding amongst central banks that the economic system is capable of being wielded to solve the problem. Mark Carney, Bank of England governor says [Capitalism is part of the solution to climate crisis](https://www.theguardian.com/business/2019/jul/31/capitalism-is-part-of-solution-to-climate-crisis-says-mark-carney). Carney was [vocal](https://www.bis.org/review/r151009a.htm) as far back as 2015 about the fragility of the economic system due to climate and has been instrumental in the formation of [The Central Banks and Supervisors Network for Greening the Financial System](https://www.banque-france.fr/en/financial-stability/international-role/network-greening-financial-system/about-us).
 

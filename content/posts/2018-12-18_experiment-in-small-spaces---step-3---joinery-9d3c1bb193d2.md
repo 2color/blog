@@ -1,8 +1,6 @@
 ---
-title: experiment in small spaces | step 3 | joinery
-description: >-
-  The woodworking world is constantly changing. The democratisation of power
-  tools, invention of new techniques, and usage of new materials…
+title: experiment in small spaces | step 3
+description: joinery, woodworking, techniques, and materials
 date: '2018-12-18T16:10:02.848Z'
 category: "Blog"
 tags: [Industrial Design, Design,Murphy Bed,Furniture,DIY,Woodworking,Makers,3D Modeling]

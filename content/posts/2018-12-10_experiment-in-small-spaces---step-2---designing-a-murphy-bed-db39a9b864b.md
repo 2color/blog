@@ -1,8 +1,6 @@
 ---
-title: experiment in small spaces | step 2 | designing a murphy bed
-description: >-
-  The centrepiece of the show is a bed. The plan is for the bed to fit a
-  140x200cm.
+title: experiment in small spaces | step 2
+description: Designing a murphy bed
 date: '2018-12-10T16:25:28.909Z'
 category: "Blog"
 tags: [Industrial Design, Design,Murphy Bed,Furniture,DIY,Woodworking,Makers,3D Modeling]
