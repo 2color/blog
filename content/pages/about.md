@@ -21,4 +21,6 @@ The methodological and interpersonal aspect of software engineering has always i
 
 I'm a proponent of the open source software and have contributed to several projects in addition to maintaining several open source projects.
 
-When I'm not working in front of screen, I enjoy furniture design and woodworking, bicycle mechanics and restoration, and motorcylcing.
+When I'm not working in front of screen, I enjoy furniture design, woodworking, nature 🌳⛵️⛰, bicycle mechanics, and motorcylcing.
+
+![](/img/me-iceland.png)

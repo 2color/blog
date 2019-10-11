@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Woodworking',
-      path: '/tag/woodworking'
+      label: 'Industrial Design',
+      path: '/tag/industrial-design'
     }
   ],
   author: {
