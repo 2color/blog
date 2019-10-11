@@ -1,7 +1,7 @@
 ---
 title: experiment in small spaces | step 4
 description: 'Building a murphy bed'
-date: '2019-10-08T16:10:02.848Z'
+date: '2019-10-11T16:10:02.848Z'
 category: 'Blog'
 tags:
   [
