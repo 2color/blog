@@ -1,14 +1,15 @@
-'use strict';
+'use strict'
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://norman.life',
   pathPrefix: '/',
   title: 'Daniel Norman',
   subtitle: 'Partially Anecdotal',
-  copyright: 'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
+  copyright:
+    'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-149858060-1',
   useKatex: false,
   menu: [
     {

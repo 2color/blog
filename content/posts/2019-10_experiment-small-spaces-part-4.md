@@ -17,6 +17,7 @@ tags:
 slug: experiment-in-small-spaces-step-4-construction
 template: 'post'
 draft: false
+socialImage: '/media/murphy-bed-final-7.jpg'
 ---
 
 This is a series about the design and construction of a murphy bed – a bed that folds into the wall and looks like a wardrobe.
