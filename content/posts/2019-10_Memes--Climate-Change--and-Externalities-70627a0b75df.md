@@ -11,11 +11,14 @@ tags: [
   Global Warming,
   Rational Optimism,
 ]
+socialImage: '/media/road-mountain.jpg'
 template: 'post'
 draft: false
 ---
 
 Climate change may be one of the most consequential challenges of our time. It disarranges the fine balance of ecological systems and has a myriad of social consequences, including mass migration and reduced crop productivity and [fueling wars](https://www.economist.com/international/2019/05/23/how-climate-change-can-fuel-wars). While our understanding of the problem is growing, the solutions are not clear and given the current political climate, a feeling of anger and pessimism is spreading. In this post, I'll explore how memetics, activism, economics, and politics serve as mechanisms for change and their role in paving the way out of this crisis and argue for rational optimism.
+
+![](road-mountain.jpg)
 
 ### Memetics
 
