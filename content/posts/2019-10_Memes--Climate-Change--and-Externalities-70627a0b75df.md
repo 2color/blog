@@ -1,12 +1,18 @@
 ---
 slug: mechanisms-to-tackle-climate-change-and-externalities
-date: 2019-10-09T13:46:57.380Z
+date: 2019-10-18T10:20:57.380Z
 title: Mechanisms to tackle climate change
 description: 'How memetics, activism, economics, and politics can solve climate change'
 category: 'Blog'
-tags: []
+tags: [
+  Climate change,
+  Economics,
+  Memes,
+  Global Warming,
+  Rational Optimism,
+]
 template: 'post'
-draft: true
+draft: false
 ---
 
 Climate change may be one of the most consequential challenges of our time. It disarranges the fine balance of ecological systems and has a myriad of social consequences, including mass migration and reduced crop productivity and [fueling wars](https://www.economist.com/international/2019/05/23/how-climate-change-can-fuel-wars). While our understanding of the problem is growing, the solutions are not clear and given the current political climate, a feeling of anger and pessimism is spreading. In this post, I'll explore how memetics, activism, economics, and politics serve as mechanisms for change and their role in paving the way out of this crisis and argue for rational optimism.
@@ -33,7 +39,7 @@ The internet meme community, with its jungle-like evolutionary nature, has taken
 
 In the MIMITW (most interesting man in the world) meme, we naturally get variants of the meme as they spread online and new variants emerge. If you’ve never seen this meme, simply play along and replace the X and Y in the template and you’ll get a new variant. Selection is the natural process by which the most adaptive (“popular”) memes spread. Because not all ideas are created equal, some tend to spread faster and in more. Lastly, heredity is the idea that features of adaptive (“popular”) variants are retained and passed on to other memes.
 
-The question of how much of our cultural evolution can be attributed to memetics is controversial. Its critics will claim that it is reductionist. Conversely, its proponents like the Biologist Richard Dawkins will attribute it great consequence in the human story. It was Dawkins who coined the term Meme to emphasize its resemblance to the behaviour of genes.
+It's important to stress that memes aren't just internet memes. They underpin so many aspects of our society, like cultures, sub-cultures, religion, education, and technology. They're the medium we use with one another to create and spread knowledge. The question of how much of our cultural evolution can be attributed to memetics is controversial. Its critics will claim that it is reductionist. Conversely, its proponents like the Biologist Richard Dawkins –who coined the term meme– will attribute it great consequence in the human story.
 
 ### Memes and social change
 
@@ -66,6 +72,8 @@ The problem with externalities relating to the environment is two-fold: we don�
 Conventionally, negative externalities are countered with regulation and taxes. For example, diesel cars are taxed more than normal cars, due to their higher emissions; similarly, tobacco is also taxed to account for its health harm. Such efforts to regulate and pass carbon tax laws are often deflected by lobby groups representing the car manufacturing industry. Even worse, in some countries, the line between the industry and government is smaller. In Germany for instance, the State of Lower Saxony owns an 11.8% stake in Volkswagen Group. This raises questions about the potential conflict of interest given the close ties between industry and politics.
 
 Taxes, despite being often despised are one of the most effective ways to change consumer behaviour, for example, tobacco tax –more generally referred to as [Pigovian tax](https://en.wikipedia.org/wiki/Pigovian_tax)– has proven to be the most effective way to reduce tobacco consumption. Taxes act as both a counterforce to the externalities and as a negative incentive. [Evidence](https://www.who.int/tobacco/economics/taxation/en/) from countries of all income levels shows that price increases on cigarettes are highly effective in reducing demand. Warning labels — which could be seen as scary memes– had their role too, but it wasn’t until taxation was introduced that behaviour changed. Warning labels were just part of the bigger trend to make smoking uncool. This is very noticeable in North America where smoking is has become frowned upon (while vaping elusively took its place).
+
+In the context of energy, taxing carbon allegedly creates an incentive to innovate and find more sustainable energy sources. I use allegedly because there are [arguments against the effectiveness carbon tax](https://marginalrevolution.com/marginalrevolution/2011/09/do-all-serious-economists-favor-a-carbon-tax.html).
 
 Furthermore, incumbents in electoral democracies often lack the incentive to focus on long term problems, especially ones that incur a short term cost. For instance, reducing unemployment can be at odds with tackling climate change, and so politicians must face the difficult reality of taking away coal mining jobs or introducing a carbon tax which potentially affects lower-income groups who lack access to other job opportunities due to location and education.
 
