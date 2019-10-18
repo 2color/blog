@@ -1,7 +1,7 @@
 ---
 slug: mechanisms-to-tackle-climate-change
 date: 2019-10-18T10:20:57.380Z
-title: Mechanisms to tackle climate change
+title: Mechanisms to Tackle Climate Change
 description: 'How memetics, activism, economics, and politics can solve climate change'
 category: 'Blog'
 tags: [
