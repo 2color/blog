@@ -21,6 +21,10 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Art',
+      path: '/pages/art'
+    },
+    {
       label: 'Ceramics',
       path: '/pages/ceramics'
     },
@@ -34,7 +38,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Creator and meditator with a pinch of curiosity.',
     contacts: {
-      email: 'daniel [at] 2color.me',
+      email: 'daniel [at] norman.life',
       facebook: '#',
       telegram: '#',
       twitter: '@daniel2color',
