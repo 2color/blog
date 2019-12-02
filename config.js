@@ -21,6 +21,10 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Ceramics',
+      path: '/pages/ceramics'
+    },
+    {
       label: 'Industrial Design',
       path: '/tag/industrial-design'
     }
