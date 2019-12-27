@@ -31,9 +31,9 @@ I also had to examine my own behaviour and find a balance between assimilation a
 
 Germany is a country that mixes individualism and collectivism in very interesting ways. As a social market economy, it combines free-market capitalism with a welfare state. It is the fourth-largest economy in the world (going by nominal GDP) powered by the services and advanced industry sectors. It promotes ideals of individual freedom and it feels safe. I've barely had any interactions with the police, and the ones I did were very friendly.
 
-`embed: https://www.youtube.com/watch?v=DCEfWHm6m08`
+`embed: https://youtu.be/oEuLpehiwog`
 
-> Berlin spricht für sich (Berlin speaks for itself)
+> Berlin spricht für sich (Berlin speaks for itself) - The zeitgeist through the lens of street art
 
 Change in Berlin is present in every aspect of life. There are major demographic and cultural shifts taking place. One in every four German residents has migration background. By 2040 one in three people in Germany will have a migrant background. The change in Germany is characterised by lower fertility rates (demographic shift) in a growingly multicultural society.
 
