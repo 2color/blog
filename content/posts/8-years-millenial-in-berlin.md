@@ -22,10 +22,10 @@ Moving to a new country is like a roller coaster ride with many highs and lows. 
 
 Bureaucracy can be tricky in Germany. Everyone has to deal with it, yet few enjoy it. The Ausländerbehörde (immigration office) is known for having long waiting times for appointments and long queues on open days. If you come prepared with all the necessary documents and you speak German or have a German speaker with you, you're generally fine. But there are numerous cases reported of the people queuing outside from before sunrise and still not getting an appointment. But it's mostly about what one feels when getting in that office. It's like there's no understanding of the impact of the quality of service in such a place. There's so much talk in Germany about [Willkommenskultur](https://en.wikipedia.org/wiki/Willkommenskultur), yet very little of that is felt in the front lines like the Ausländerbehörde.
 
-<!-- `embed: https://www.youtube.com/watch?v=-LzrQ72pFTk` -->
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-LzrQ72pFTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+`embed: https://youtu.be/i_SHKZONGLc`
 
-> When bureaucrats have too much power
+> West Berlin in the 1980s
+
 
 I also had to examine my own behaviour and find a balance between assimilation and multicultural co-existence; something I'm still fine-tuning. Berlin has had a long history of being an oasis for misfits, from the hedonism of the 20s to the time of the Berlin wall, during which [West Berlin](https://www.youtube.com/watch?v=LWNjX2d8wIg) would attract hippies looking to avoid compulsory military service. You don't have to blend in. Everyone here is a little bit weird and the city's dwellers don't seem to care about much. That is until you cross a line and get struck with reprimands. The correcting/educating culture is what enables social cohesion in Germany. This is different from other developed countries in my experience. And it's very noticeable. I'll never forget the frown I once got from a mother for jaywalking.
 
