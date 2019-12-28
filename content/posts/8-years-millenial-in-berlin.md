@@ -1,5 +1,5 @@
 ---
-title: 8 Years as a Millenial in Berlin
+title: 8 Years as a Millennial in Berlin
 description: 'My journey as an expat in the ever-changing capital of Germany'
 date: '2019-12-19T17:00:02.848Z'
 category: 'Blog'
@@ -86,7 +86,7 @@ You're hopeful and cynical.
 You're an obnoxious American hipster in Mitte.  
 You're fixie bikes in Kreuzberg.  
 You're the alleged "scene" in Wedding.  
-You never leave your fucking Kiez (hood).
+You never leave your fucking Kiez (hood).  
 You're a winter that escapes to Asia from which you come back tanned wanting to resolve all your interpersonal conflicts.  
 You're loud Israelis shopping at Primark.  
 You're an epic failure when it comes to building airports.
