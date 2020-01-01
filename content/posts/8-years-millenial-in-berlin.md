@@ -20,7 +20,7 @@ Later in high school, while growing up in Australia, I got exposed to the happy-
 
 Moving to a new country is like a roller coaster ride with many highs and lows. You have to adapt to new social norms–many of which are implicit. You have to learn a language, a laborious and long undertaking of its own. You have to build a social circle and integrate into or build a community, find worthy employment and deal with plenty of bureaucracy.
 
-Bureaucracy can be tricky in Germany. Everyone has to deal with it, yet few enjoy it. The Ausländerbehörde (immigration office) is known for having long waiting times for appointments and long queues on open days. If you come prepared with all the necessary documents and you speak German or have a German speaker with you, you're generally fine. But there are numerous cases reported of the people queuing outside from before sunrise and still not getting an appointment. But it's mostly about what one feels when getting in that office. It's like there's no understanding of the impact of the quality of service in such a place. There's so much talk in Germany about [Willkommenskultur](https://en.wikipedia.org/wiki/Willkommenskultur), yet very little of that is felt in the front lines like the Ausländerbehörde.
+Bureaucracy can be tricky in Germany. Everyone has to deal with it, yet few enjoy it. The Ausländerbehörde (immigration office) is known for having long waiting times for appointments and long queues on open days. If you come prepared with all the necessary documents and you speak German or have a German speaker with you, you're generally fine. But there are numerous cases reported of the people queuing outside from before sunrise and still not getting an appointment. It's mostly about what you feel as you enter in that office. It's like there's no understanding of the impact of the quality of service in such a place. There's so much talk in Germany about [Willkommenskultur](https://en.wikipedia.org/wiki/Willkommenskultur), yet very little of that is felt in the front lines like the Ausländerbehörde.
 
 `embed: https://youtu.be/i_SHKZONGLc`
 
@@ -65,6 +65,7 @@ Historically, it's been easy to get by on a shoestring in Berlin. But rising ren
 
 Berlin has mostly been a poor city and these recents shifts put the city in an identity crisis, at the centre of which is the question– what counts as positive growth for Berlin. Should we build more? What if comes at the expense of public spaces? What if the apartments are too expensive for the ones who need them the most? Is the Australian breakfast café part of the gentrification problem? Is a [new Google office in Kreuzberg](https://fuckoffgoogle.de/) a net bad for a community. The evidence from San Francisco suggests that the worries are warranted.
 
+
 Post WW2 immigration waves from Turkey, Vietnam, Cameroon, and later from former members of the east block, have not been an easy ride of integration ([Fatih Akin](https://en.wikipedia.org/wiki/Fatih_Akin), a German director of Turkish descent has some great films that touch on this). The recent refugee crisis has further polarised the discourse around immigration and fueled the growth of the nationalist Alternative for Deutschland party.
 
 ![Tempelhof Park](media/8-years-berlin/tempelhof.jpeg)
@@ -89,9 +90,9 @@ You're the alleged "scene" in Wedding.
 You never leave your fucking Kiez (hood).  
 You're a winter that escapes to Asia from which you come back tanned wanting to resolve all your interpersonal conflicts.  
 You're loud Israelis shopping at Primark.  
-You're an epic failure when it comes to building airports.
+You're an epic failure when it comes to building airports.  
 You're Sudanese falafel places on every second street.  
-You're a sell-out that somehow stays cool.
+You're a sell-out that somehow stays cool.  
 You're randoms on the street pointing out the obvious: "ohne Helm" as if you don't know you're not wearing a helmet.  
 You're meditation workshops on a new moon.  
 You're the sense of community you find in the most unexpected of places (don't worry, I didn't join a cult).  
@@ -104,7 +105,7 @@ You're community gardens and amateur beekeeping.
 You're alternative everything, sex-positivity, and polyamory.  
 You're vegan supermarkets.  
 You're cryptocurrencies, blockchains, and open-source.  
-You're pretending to take yourself seriously.
+You're pretending to take yourself seriously.  
 You're an endless stream of blips that barely form a narrative.  
 You're my place.
 
