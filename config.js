@@ -25,6 +25,10 @@ module.exports = {
       path: '/pages/art'
     },
     {
+      label: 'Modern Conversations Podcast',
+      path: '/pages/podcast'
+    },
+    {
       label: 'Ceramics',
       path: '/pages/ceramics'
     },
