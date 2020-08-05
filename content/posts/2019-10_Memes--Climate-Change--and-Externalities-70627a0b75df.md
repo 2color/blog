@@ -18,7 +18,7 @@ draft: false
 
 Climate change may be one of the most consequential challenges of our time. It disarranges the fine balance of ecological systems and has a myriad of social consequences, including mass migration and reduced crop productivity and [fueling wars](https://www.economist.com/international/2019/05/23/how-climate-change-can-fuel-wars). While our understanding of the problem is growing, the solutions are not clear and given the current political climate, a feeling of anger and pessimism is spreading. In this post, I'll explore how memetics, activism, economics, and politics serve as mechanisms for change and their role in paving the way out of this crisis and argue for rational optimism.
 
-![](road-mountain.jpg)
+![](media/road-mountain.jpg)
 
 ### Memetics
 
@@ -96,7 +96,7 @@ Despite the disagreement about the utility of technology and the economic system
 
 > "Extinction Rebellion is an international apolitical network using non-violent direct action to persuade governments to act justly on the Climate and Ecological Emergency."
 
-The movement has been responsible for non-violent protests starting in the UK and now spreading globally. They are now in the midst of execution of their plan to shut down parts of central London for two weeks. The UK group has 3 demands:
+The movement has been responsible for non-violent protests starting in the UK and now spreading globally. They are now in the midst of the execution of their plan to shut down parts of central London for two weeks. The UK group has 3 demands:
 
 - The Government must tell the truth by declaring a climate and ecological emergency, working with other institutions to communicate the urgency for change.
 - The Government must act now to halt biodiversity loss and reduce greenhouse gas emissions to net-zero by 2025.
@@ -112,4 +112,4 @@ Despite the complexity of the situation and political challenges, there are beac
 
 Human creativity is paramount to the growth of knowledge. Projects like [Project Vesta](https://projectvesta.org/) and [refreezing the arctic with-geoengineering](https://www.newscientist.com/article/mg24332450-700-refreezing-the-arctic-how-to-bring-the-ice-back-with-geoengineering/) are amongst the many that take a novel approach.
 
-The mechanisms we have at hand should be taken seriously. Whether on the memetic, scientific, political, or innovative front. We have the oppurtunity and infrastructure in place to navigate out of this.
+The mechanisms we have at hand should be taken seriously. Whether on the memetic, scientific, political, or innovative front. We have the opportunity and infrastructure in place to navigate out of this.
