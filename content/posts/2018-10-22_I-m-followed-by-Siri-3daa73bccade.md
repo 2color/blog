@@ -23,7 +23,7 @@ Initially Theodore acts out shame in response to interest from his friends in hi
 
 The notion that the human mind is a computer is not new. In philosophy this is often referred to as the [the computational theory of the mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind). The idea was conceived long before the digital revolution that gave rise to much of the ideas explored in the film Her. Recently, as AI became ubiquitous in our lives through many of the technologies offered by the tech giants, this idea has risen once again to the public discourse. Harari’s bestseller book, Homo Deus explores this very idea, presenting the current science in a neat and accessible form.
 
-![Thomas Hobbes(1588-1679), one of the early proponents of the computational theory of the mind](img/1__GmwULe7rAL__7PZS7P5x9kA.jpeg)
+![Thomas Hobbes(1588-1679), one of the early proponents of the computational theory of the mind](/media/1__GmwULe7rAL__7PZS7P5x9kA.jpeg)
 Thomas Hobbes(1588-1679), one of the early proponents of the computational theory of the mind
 
 But the elephant in the room must be addressed and the elephant is consciousness. What is consciousness? Is it substrate independent (can we run a human mind on a computer)? Can the computational theory subsume [the hard question of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)?

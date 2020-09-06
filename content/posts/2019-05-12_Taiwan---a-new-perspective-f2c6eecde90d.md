@@ -23,7 +23,7 @@ After 16 hours up in the air with two legs, in the relatively new marvel of huma
 
 I got to Songshan district and met my flatmate for the next three weeks. An martial artist expat learning Chinese and Tai Chi and we walked back to the apartment.
 
-![Urban life with pets](img/1__vvZkmpD02D3UFp94VxInDw.jpeg)
+![Urban life with pets](/media/1__vvZkmpD02D3UFp94VxInDw.jpeg)
 > Urban life with pets
 
 While the city is big, I have to say it doesn’t feel to hectic. From what I understand the district I’m in is “calmer”. There are lots of mopeds, 7-Elevens on every corner, and many street food stands serving the famous beef noodles and many other goodies I can’t recognise yet.

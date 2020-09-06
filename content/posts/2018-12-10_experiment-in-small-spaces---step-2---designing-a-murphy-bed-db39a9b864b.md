@@ -27,7 +27,7 @@ Going back a step, there are two problems that need to be addressed:
 
 *   A rotation mechanism — This will some component that allows circular rotation. Most likely an axel or bearing of sorts. Should accommodate for 90° of rotation. This one must be load bearing as it is to carry the mattress and mattress frame.
 
-![The centre of the circle is where the axel is envisioned](img/1__XrEsJMUXNkKr3uio4TMBhg.png)
+![The centre of the circle is where the axel is envisioned](/media/1__XrEsJMUXNkKr3uio4TMBhg.png)
 > The centre of the circle is where the axel is envisioned
 
 *   Damping mechanism — This should resist the immediate falling (slow down release) and smoothen the “landing” of the mattress frame. Additionally, this should assist in raising the bed back to its vertical position.
@@ -36,7 +36,7 @@ I searched the web meticulously to resources and ideas. Commercial Murphy bed ki
 
 I finally found [heavy duty chair swivels](https://www.amazon.de/gp/product/B00TF7TLWC/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) with a load rating of 200kg. Two of them will be fixed vertically on each side of the mattress frame. This idea came from the Youtube channel [DIY Creators](https://www.youtube.com/watch?v=Y6T1xPC-Iek). Because the damping mechanism is not mandatory, I’ll leave that decision to when the bed will have been constructed and I can better understand where the pain points lie.
 
-![Chair swivel](img/1__9VKCWJT7pTduD1hL7W2mJw.jpeg)
+![Chair swivel](/media/1__9VKCWJT7pTduD1hL7W2mJw.jpeg)
 > Chair swivel
 
 To be able to design everything to accurately to size, I decided to 3D model the bed on Sketchup.

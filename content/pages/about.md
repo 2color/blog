@@ -23,4 +23,4 @@ I'm a proponent of the open source software and have contributed to several proj
 
 When I'm not working in front of screen, I enjoy furniture design, woodworking, nature 🌳⛵️⛰, bicycle mechanics, and motorcylcing.
 
-![](/img/me-iceland.png)
+![](/media/me-iceland.png)

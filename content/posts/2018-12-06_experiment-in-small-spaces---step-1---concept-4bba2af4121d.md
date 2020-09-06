@@ -11,7 +11,7 @@ draft: false
 
 I have a small 11 m² room with a small balcony.
 
-![On a nice day](img/1__MPLtbILMmfBtm9UOBi2H__A.jpeg)
+![On a nice day](/media/1__MPLtbILMmfBtm9UOBi2H__A.jpeg)
 On a nice day
 
 I’ve long thought about transforming it so that it could serve two purposes:
@@ -19,7 +19,7 @@ I’ve long thought about transforming it so that it could serve two purposes:
 *   Guest room
 *   Workroom / clean workshop
 
-![The Space](img/1__fAv5DD__FOyBKRxgPckj__lg.png)
+![The Space](/media/1__fAv5DD__FOyBKRxgPckj__lg.png)
 
 Up until recently, it served exclusive as a guest room. But my recent dive into the world of woodworking made me convert it into a workshop.
 

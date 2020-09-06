@@ -15,7 +15,7 @@ One of the privileges of working in the tech industry is the relative flexibilit
 
 Moreover, offices have become a despised environment for employees looking to maximize their work. Despite being advertised as a collaborative environment, open plan offices tend to be loud, and a single distraction can be cognitively costly, when one considers the time it takes to regain focus. There is plenty of [evidence to back this](https://www.inc.com/jessica-stillman/new-harvard-study-you-open-plan-office-is-making-your-team-less-collaborative.html).
 
-![“people doing office works” by [Alex Kotliarskyi](https://unsplash.com/@frantic) on [Unsplash](https://unsplash.com)](img/0__p__sNPhOKrDKkOLkH.jpg)
+![“people doing office works” by [Alex Kotliarskyi](https://unsplash.com/@frantic) on [Unsplash](https://unsplash.com)](/media/0__p__sNPhOKrDKkOLkH.jpg)
 
 But remote work is not a magic bullet. Going to a country with a low cost of living comes at a price and now that this lifestyle has gained much popularity in the tech world, we can better understand the caveats of this new lifestyle.
 

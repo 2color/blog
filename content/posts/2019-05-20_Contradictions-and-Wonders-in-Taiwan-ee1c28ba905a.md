@@ -13,7 +13,7 @@ Some places capture me immediately. Others grow on me. I’ve been in Taipei, th
 
 Taiwan is very safe. There’s a strong sense of personal security and social cohesion. This shines through the many street signs, the wheelchair accessibility even in some of the most patchy back streets, the many parks filled with old people practising all sorts of strange morning exercises, reserved chairs for people in need, and food and drink free public transport system. Traversing the city is frictionless. While it’s radically different to Germany — where I’m currently based — both countries’ social norms share many of the underlying intentions.
 
-![Systemic thoughtfulness](img/1__dkCxi0nZjIfpygqbdp4ftw.jpeg)
+![Systemic thoughtfulness](/media/1__dkCxi0nZjIfpygqbdp4ftw.jpeg)
 
 > Systemic thoughtfulness
 
@@ -29,7 +29,7 @@ There’s no better way to tackle that task than to meet both locals and expats.
 
 Nevertheless, I met a local named Cindy and she took me to a bar area targeted at the LGBT and expat community. An eclectic mix of people. As I met more locals, I discovered that Taiwanese usually get their English names at a young age from their English teachers. Having met three Cindys, Sandy, Candy, and Barbara, I couldn’t help but make a remark about the type of industry these names might be popular in.
 
-![Hip way to save money on a second bathroom](img/1__dcfF032__43iEXq1Vy629og.jpeg)
+![Hip way to save money on a second bathroom](/media/1__dcfF032__43iEXq1Vy629og.jpeg)
 
 > Hip way to save money on a second bathroom
 
@@ -41,7 +41,7 @@ Shortly after a hike through the forest, I was soaking wet from the heat and hum
 
 Alvin, a friend I met at a conference in Iceland, lives in Taipei. He also works remotely, and our paths continue to cross all over the globe, this time in Taiwan. After a hiccup with my first apartment, Alvin offered his spare room. Suddenly, since Alvin speaks Mandarin, I was getting insight into many things that were a mystery to me. For example, the receipts in Taiwan have two QR codes. One of the two, as turns out is a lottery entry number. That explained the baffled look when I said I don’t need the receipt after buying coffee.
 
-![Who would have guessed?](img/1__7f7AyqJYoEAXvf__Xq__yqqA.jpeg)
+![Who would have guessed?](/media/1__7f7AyqJYoEAXvf__Xq__yqqA.jpeg)
 
 > Who would have guessed?
 
@@ -53,7 +53,7 @@ American pop-culture is ubiquitous, in the form of an all-embracing capitalistic
 
 At this point, I feel like my travels can seem like all thrills and wonders. And yet, on this trip, I feel constantly challenged. Worry not, my novelty-seeking taste buds are continuously met, though often at questionable street stands. I can undoubtedly say that I’ve slept in respectable beds. But a sense of connectedness is missing. It’s as if I have no justification for interacting with strangers here. Indeed, the language barrier might be a part of the problem. But I find that it spans beyond that. Niceness is certainly a virtue, but human connection takes more. I might be expecting too much, but I think truly connecting means exposing our vulnerabilities and in the age of #my-life-is-so-perfect as we curate it on social media, our flaws and dents have no place.
 
-![The next day after I discovered whether it was questionable](img/1__eXOVyfANzhhSAXvYu__FqTg.jpeg)
+![The next day after I discovered whether it was questionable](/media/1__eXOVyfANzhhSAXvYu__FqTg.jpeg)
 
 > The next day after I discovered whether it was questionable
 

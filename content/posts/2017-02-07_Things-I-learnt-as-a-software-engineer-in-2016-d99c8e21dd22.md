@@ -33,7 +33,7 @@ I now work 4 days a week. This is a simple recipe for better solutions and less 
 
 The ecosystem is growing at a rapid rate. Faster than any other ecosystem.
 
-![The green line represents the growth of the npn package count](img/1__DMDY__ncqAgCpinp0MEz7nA.png)
+![The green line represents the growth of the npn package count](/media/1__DMDY__ncqAgCpinp0MEz7nA.png)
 
 This means that if you tackle a problem, there’s a good chance someone else faced it and published his recipe for for that problem. That poses a unique opportunity for learning and seeing things differently. The diversity of solutions and abundance of novel ideas is unprecedented. Skimming through code can be fun and some of the projects have fantastic documentation. An random example of that is [lodash’s some function](https://github.com/lodash/lodash/blob/master/some.js)
 

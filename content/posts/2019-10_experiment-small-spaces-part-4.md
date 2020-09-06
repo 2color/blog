@@ -38,17 +38,17 @@ Moreover, I realised that for the bed to look nice, it has to integrate visually
 
 Because I designed the bed in Sketchup, I could easily generate a cut list with the [Cutlist plugin for Sketchup](https://extensions.sketchup.com/pl/content/cutlist). This is one of the many reasons for designing upfront in 3D.
 
-![](/img/cut-list-all.png)
+![](/media/cut-list-all.png)
 
 ## Construction
 
 Besides space restrictions arising from construction in such a tight space, building the mattress base and the enclosing frame went pretty smoothly.
 
-![](/img/murphy-bed-1.png)
-![](/img/murphy-bed-2.png)
-![](/img/murphy-bed-3.png)
-![](/img/murphy-bed-matterss-frame.png)
-![](/img/murphy-bed-7.png)
+![](/media/murphy-bed-1.png)
+![](/media/murphy-bed-2.png)
+![](/media/murphy-bed-3.png)
+![](/media/murphy-bed-matterss-frame.png)
+![](/media/murphy-bed-7.png)
 
 ## Hinges
 
@@ -61,8 +61,8 @@ For further robustness, I used threaded inserts and M6 machine screws to distrib
 	<figcaption>Threaded insert is screwed into a predrilled hole in wood and acts as a female for machine screws</figcaption>
 </figure>
 
-![](/img/murphy-bed-4.png)
-![](/img/murphy-bed-5.png)
+![](/media/murphy-bed-4.png)
+![](/media/murphy-bed-5.png)
 
 ## The finish
 
@@ -72,13 +72,13 @@ To utilise the space on the left of the bed, I cut shelves to size and fixed the
 
 Lastly, the multipurpose shelf and frame leg was closed and fixed. After sanding I applied some wax and the wood came to life. A truly exciting moment.
 
-![](/img/murphy-bed-final-1.jpg)
-![](/img/murphy-bed-final-2.jpg)
-![](/img/murphy-bed-final-3.jpg)
-![](/img/murphy-bed-final-4.jpg)
-![](/img/murphy-bed-final-5.jpg)
-![](/img/murphy-bed-final-6.jpg)
-![](/img/murphy-bed-final-7.jpg)
+![](/media/murphy-bed-final-1.jpg)
+![](/media/murphy-bed-final-2.jpg)
+![](/media/murphy-bed-final-3.jpg)
+![](/media/murphy-bed-final-4.jpg)
+![](/media/murphy-bed-final-5.jpg)
+![](/media/murphy-bed-final-6.jpg)
+![](/media/murphy-bed-final-7.jpg)
 
 ## Last words
 
