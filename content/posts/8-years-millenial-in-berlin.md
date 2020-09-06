@@ -16,7 +16,7 @@ Europe has always been a place of interest to me. My first visit was a family ca
 
 Later in high school, while growing up in Australia, I got exposed to the happy-go-lucky approach to life of Aussies. Australian culture is centred around sports, beer, humour, flat-whites, and the beach. It's a very lifestyle oriented culture. That's maybe reductionist but it's how I experienced the spirit of Australia. This spirit went uninterrupted as Australia's economy continued to grow. By 2017, Australia took the record for the longest run of uninterrupted GDP growth in the developed world, marking 26 years with no recession. This has created a thriving middle class and a feeling everybody's getting their bit of the growing cake. Living in an idyllic place is nice, but I left Australia when I was 18 and I was excited to leave the bubble. Australia is so remote and it takes a minimum of 6 hours by plane to get somewhere culturally different. Social media, which was still in its infancy at the time, had yet to take full effect in dissolving the perceived geographical barriers.
 
-![Oberbaumbrücke](media/8-years-berlin/bridge.jpg)
+![Oberbaumbrücke](/media/8-years-berlin/bridge.jpg)
 
 Moving to a new country is like a roller coaster ride with many highs and lows. You have to adapt to new social norms–many of which are implicit. You have to learn a language, a laborious and long undertaking of its own. You have to build a social circle and integrate into or build a community, find worthy employment and deal with plenty of bureaucracy.
 
@@ -41,7 +41,7 @@ The former East part of Germany has an aging population, mostly due to many leav
 
 Germans have always found it difficult to develop a healthy sense of love for one's country (this need not be patriotism or nationalism). That's because there's no consensus about what brings everyone living here together. The Reichstag is inscribed with "Dem deutschen Volke", which translates to "dedicated to the German people". This is highly controversial due to the disagreement about the term "German people". An open-ended question that is being constantly challenged by a changing reality. The idea of a German people (folk) has been mostly abandoned due to its association with Nazi propaganda. It also just sounds cringy. This resulted in the distancing of the left from associating with the inscription. For instance, activists replaced the inscription with "Der deutschen Wirtschaft" which means "to the German economy" as protest against lobbying, vested interest, and capitalism.
 
-![Plattenbau](media/8-years-berlin/platte.jpeg)
+![Plattenbau](/media/8-years-berlin/platte.jpeg)
 
 > The concrete jungle of the former east
 
@@ -53,7 +53,7 @@ There's seems to be a taboo around passing judgement on anything that is tied to
 
 Life in Berlin is also wonderful. Free time is cherished here. It's a lovely place to embrace a slower pace of life. Shops are closed on Sundays, so it's like a collective consumption-free quiet rest day. There's environmental awareness and the city is a cycling-friendly. Berlin is filled with many parks provising a retreat from the barely hectic city life. Ultimately, one just feels free here. You have meet-ups for every possible hobby or interest you might have. The growing international community means access to cultural events and diverse restaurants.
 
-![Treptower Park](media/8-years-berlin/park.jpeg)
+![Treptower Park](/media/8-years-berlin/park.jpeg)
 
 Work-life ties together that spirit. As an employee one is entitled to a minimum of 24 days of annual leave. Employees are generally not expected to work beyond work hours. "schönen Feierabend", a German greeting for "enjoy your free time after work" is another artifact of local philosophy–you're not your work. It embodies the idea of working to live not living to work.
 
@@ -61,14 +61,14 @@ This is at least representative in the tech industry, NGOs, and the public secto
 
 Historically, it's been easy to get by on a shoestring in Berlin. But rising rents and insufficient supply of housing has created a lot of new tensions and made it more difficult for newcomers to secure housing. This is evident in apartment viewing queues which stretch up to 50 people lining up. The economic growth that emerged after the fall of the wall and the reunification of Germany created a lot of new economic activity and with it came wealth. But the new wealth doesn't seem to be benefitting everyone equally. This imbalance has fueled an already growing anti-capitalist sentiment something you notice in street art, protests, and local politics.
 
-![Tempelhof Park](media/8-years-berlin/berlin-heart-not.jpg)
+![Tempelhof Park](/media/8-years-berlin/berlin-heart-not.jpg)
 
 Berlin has mostly been a poor city and these recents shifts put the city in an identity crisis, at the centre of which is the question– what counts as positive growth for Berlin. Should we build more? What if comes at the expense of public spaces? What if the apartments are too expensive for the ones who need them the most? Is the Australian breakfast café part of the gentrification problem? Is a [new Google office in Kreuzberg](https://fuckoffgoogle.de/) a net bad for a community. The evidence from San Francisco suggests that the worries are warranted.
 
 
 Post WW2 immigration waves from Turkey, Vietnam, Cameroon, and later from former members of the east block, have not been an easy ride of integration ([Fatih Akin](https://en.wikipedia.org/wiki/Fatih_Akin), a German director of Turkish descent has some great films that touch on this). The recent refugee crisis has further polarised the discourse around immigration and fueled the growth of the nationalist Alternative for Deutschland party.
 
-![Tempelhof Park](media/8-years-berlin/tempelhof.jpeg)
+![Tempelhof Park](/media/8-years-berlin/tempelhof.jpeg)
 
 > Tempelhof Park - The embodiment of contemporary Berlin.
 

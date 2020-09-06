@@ -43,7 +43,7 @@ As the [world undergoes mass urbanisation](http://www.unesco.org/education/tlsf/
 
 The way we live our lives and the role the professional aspect of it plays have radically changed in the last decades. Our living situation has also shifted as people settle later and take more time for self-exploration during [emerging adulthood](https://en.wikipedia.org/wiki/Emerging_adulthood_and_early_adulthood). Single person households have increased steadily:
 
-![](media/1__PVROJaNZD4dCrslgZwuXjw.jpeg)
+![](/media/1__PVROJaNZD4dCrslgZwuXjw.jpeg)
 
 > “One of the key changes is the increase in single-person households: adults living alone. At one time, this was considered very unusual. But it is normal, and may have profound implications for many businesses.”
 

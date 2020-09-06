@@ -33,11 +33,11 @@ The exchange of information is made possible with TCP, Transfer Control Protocol
 
 IP is a protocol to make computers digitally addressable. In the case of Google Docs, I provide my username and password, and once it arrives at the Google server, it is checked, and if valid, Google will send back the list of my documents.
 
-![](media/0__qoRgAfYWkb6edM1M.jpg)
+![](/media/0__qoRgAfYWkb6edM1M.jpg)
 
 It may appear as if the example above involves only two participants, however that was intentional in order to simplify the procedure. In reality, every interaction between two parties relies on many more computers in the network to relay the packets between Google and me. It’s also important to note that there can be many possible paths between Google and me, so it looks more like this:
 
-![](media/0__x4eAD2xubKL5qNHi.jpg)
+![](/media/0__x4eAD2xubKL5qNHi.jpg)
 
 The power of the TCP protocol is that it creates a virtual direct link between two participants.
 
@@ -45,7 +45,7 @@ The graph above draws upon an academic area of study in mathematics known as gra
 
 In a graph, measures of centrality and node influence can be used to identify the most important edges and vertices. These measures can tell us how important an edge or a vertex is to the graph. The most obvious important edge we’re all familiar with as Internet users is the one between our computer or smartphone and the ISP or mobile network operator. It’s enough to cut that link and your ability to communicate with the rest of the graph is lost. That constitutes a low degree of centrality of the edge (the connection). Conversely, when the idea is extended to Google, a high degree of centrality is to be measured due to the many edges that connect to it. This is illustrated in the following graph that represents a real world network of friends and family.
 
-![](media/0__5El2Fz5YHnGftCq3.jpg)
+![](/media/0__5El2Fz5YHnGftCq3.jpg)
 
 In this case, Google has the highest degree of centrality. Daniel’s ability to communicate with his friend Matt and parents depends on how they communicate. If much of this communication flows through Google, with the help of Gmail or Hangouts, the removal of Google will impede Daniel’s ability to communicate.
 
@@ -105,7 +105,7 @@ The Bitcoin network is able to process approximately ten transactions a second *
 
 Besides being digital and decentralised, Bitcoin is inferior in almost every other regard. This explains much of its current usage: illicit drug trading, money laundering, crime, and speculation. The lack of a central authority means that users are no longer protected by an operator who can compensate or correct when technical errors arise. The news is filled with stories about user’s irrecoverable lost Bitcoins. Prices tend to fluctuate dramatically. The ten transactions per second limitation barely suffices for a cafe chain, let alone a global economy. Moreover, actually using Bitcoins for personal or commercial activity is overly complex. One needs to register to an exchange, verify identity, look at perplexing graphs, make a bid, wait for confirmation, pick a digital wallet from the many available, and then make sure you have a backup.
 
-![](media/0__gGEbyiT36TxngGD7.jpg)
+![](/media/0__gGEbyiT36TxngGD7.jpg)
 
 To make it just a little more confusing, disagreements within the developer communities behind these protocol result in [forks](https://en.wikipedia.org/wiki/List_of_bitcoin_forks). These forks can result in Bitcoin holders suddenly owning more than a single currency, as happened with Bitcoin Cash. This is all very confusing. For most legitimate use-cases it’s not worth the trouble. But it may not stay like that forever.
 
