@@ -128,6 +128,9 @@ module.exports = {
                 settings: {
                   Vimeo: {
                     maxheight: 450
+                  },
+                  Instagram: {
+                    url: 'https://api.instagram.com/oembed'
                   }
                 }
               }

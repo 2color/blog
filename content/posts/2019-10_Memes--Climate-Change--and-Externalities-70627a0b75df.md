@@ -58,8 +58,6 @@ Given the timeframe and my personal experience, I think it is reasonable to trac
 
 In 2019, there are still many crackpots with very little expertise and veracity who argue that human activity has no role in global warming. This is part of a broader phenomenon known as science denialism which frequently denounces relativity theory, evolution and climate change. Science denialism is a form of pseudoscience.
 
-`embed: https://www.instagram.com/p/BwmetExnoIu/`
-
 A [Nasa article](https://climate.nasa.gov/causes/) on the topic cites an intergovernmental panel consisting of 1300 independent scientists who concluded there’s more than a 95% probability that human activities over the past 50 years have warmed our planet. Though unlikely, they could be wrong and there’s never absolute certainty (This principle is often referred to as fallibilism–the idea that no claim can be conclusively justified).
 
 Every Internet user is in a [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) because the Internet is mostly funded by advertising (measured with page impressions and clicks). Platforms like Youtube and Facebook use algorithms to optimise for clicks. Almost every “free” app or service you use depends on this process of unconsciously turning your attention into dollars, and they have built sophisticated algorithms of reliably doing so. As it turns out, anger and outrage are most effective at getting users to click. It naturally follows that the effective memes tend to be the ones that trigger anger and outrage.
