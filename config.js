@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://norman.life',
   pathPrefix: '/',
   title: 'Daniel Norman',
-  subtitle: 'Partially Anecdotal',
+  subtitle: 'Daniel Norman\'s Website',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
