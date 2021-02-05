@@ -10,7 +10,7 @@ I take joy in solving complex problems with elegant solutions by simplifying and
 
 I've worked at early stage startups and in the Open Source space building products iteratively.
 
-I'm proficient in full stack development and DevOps in cloud enviornments with a track record of owning the full cycle from idea to production and owning operating services using many of the [SRE](https://landing.google.com/sre/books/) principles.
+I'm proficient in full stack development and DevOps in cloud environments with a track record of owning the full cycle from idea to production and owning operating services using many of the [SRE](https://landing.google.com/sre/books/) principles.
 
 I'm an effective communicator and thrive in cross-functional teams. I enjoy learning and teaching and see it as an integral part of team work.
 I combine those skills with teamwork and a strong understanding of the organizational structure to work efficiently and pragmatically in alignment with business goals.
