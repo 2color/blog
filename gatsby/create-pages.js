@@ -22,10 +22,11 @@ const createPages = async ({ graphql, actions }) => {
   });
 
   // Categories list
-  createPage({
-    path: '/categories',
-    component: path.resolve('./src/templates/categories-list-template.js')
-  });
+  // Disable as there is only one category (`blog`)
+  // createPage({
+  //   path: '/categories',
+  //   component: path.resolve('./src/templates/categories-list-template.js')
+  // });
 
   // Posts and pages from markdown
   const result = await graphql(`
