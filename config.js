@@ -18,23 +18,23 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about/'
     },
     {
       label: 'Art',
-      path: '/pages/art'
+      path: '/pages/art/'
     },
     {
       label: 'Podcast',
-      path: '/pages/podcast'
+      path: '/pages/podcas/'
     },
     {
       label: 'Ceramics',
-      path: '/pages/ceramics'
+      path: '/pages/ceramics/'
     },
     {
       label: 'Industrial Design',
-      path: '/tag/industrial-design'
+      path: '/tag/industrial-design/'
     }
   ],
   author: {

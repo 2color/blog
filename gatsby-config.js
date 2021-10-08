@@ -192,7 +192,7 @@ module.exports = {
         output: '/sitemap.xml',
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => ({
-            url: site.siteMetadata.siteUrl + edge.node.path,
+            url: site.siteMetadata.siteUrl + edge.node.path + '/',
             changefreq: 'daily',
             priority: 0.7
           }))
@@ -223,6 +223,12 @@ module.exports = {
       }
     },
     'gatsby-plugin-flow',
-    'gatsby-plugin-optimize-svgs'
+    'gatsby-plugin-optimize-svgs',
+    {
+      resolve: `gatsby-plugin-force-trailing-slashes`,
+      options: {
+        excludedPaths: [`/404.html`],
+      }
+    }
   ]
 }
