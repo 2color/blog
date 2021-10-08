@@ -49,7 +49,7 @@ Nevertheless, there are still many cultural clashes and plain ignorance. I've ha
 
 There's seems to be a taboo around passing judgement on anything that is tied to group identity. Berlin is so cosmopolitan and individualistic which ambiguates the boundaries of what may be called German culture. This begs the question: what is German culture? It's not a monolith and there's no single authority. There are many different streams of thought, and it's noticeable in culture, politics, and art.
 
-![Friedrichshain](friedrichshain.jpeg)
+![Friedrichshain](/media/8-years-berlin/friedrichshain.jpeg)
 
 Life in Berlin is also wonderful. Free time is cherished here. It's a lovely place to embrace a slower pace of life. Shops are closed on Sundays, so it's like a collective consumption-free quiet rest day. There's environmental awareness and the city is a cycling-friendly. Berlin is filled with many parks provising a retreat from the barely hectic city life. Ultimately, one just feels free here. You have meet-ups for every possible hobby or interest you might have. The growing international community means access to cultural events and diverse restaurants.
 
