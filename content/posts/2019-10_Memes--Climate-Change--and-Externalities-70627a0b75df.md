@@ -18,7 +18,7 @@ draft: false
 
 Climate change may be one of the most consequential challenges of our time. It disarranges the fine balance of ecological systems and has a myriad of social consequences, including mass migration and reduced crop productivity and [fueling wars](https://www.economist.com/international/2019/05/23/how-climate-change-can-fuel-wars). While our understanding of the problem is growing, the solutions are not clear and given the current political climate, a feeling of anger and pessimism is spreading. In this post, I'll explore how memetics, activism, economics, and politics serve as mechanisms for change and their role in paving the way out of this crisis and argue for rational optimism.
 
-![](/media/road-mountain.jpg)
+![mountain road](/media/road-mountain.jpg)
 
 ### Memetics
 
@@ -38,7 +38,7 @@ A popular example of memes at play is The Most Interesting Man In The World. A b
 
 The internet meme community, with its jungle-like evolutionary nature, has taken the essence of the meme and given it a new life. [Meme generators](https://imgflip.com/memegenerator/10760000/i-dont-always) made it easy to create versions of the “I don’t always **X**, but when I do, I **Y**”. Curiously, in its mutated form widespread across the web, it was often self-deprecating, e.g.
 
-![](/media/0__smXwUimOBU5MONzP.jpg)
+![meme](/media/0__smXwUimOBU5MONzP.jpg)
 
 In the MIMITW (most interesting man in the world) meme, we naturally get variants of the meme as they spread online and new variants emerge. If you’ve never seen this meme, simply play along and replace the X and Y in the template and you’ll get a new variant. Selection is the natural process by which the most adaptive (“popular”) memes spread. Because not all ideas are created equal, some tend to spread faster and in more. Lastly, heredity is the idea that features of adaptive (“popular”) variants are retained and passed on to other memes.
 
@@ -48,7 +48,7 @@ It's important to stress that memes aren't just internet memes. They underpin so
 
 In 2015, a [distressing video](https://www.youtube.com/watch?v=4wH878t78bw) of a marine biologist pulling out a straw from a sea turtle went viral. At the time of writing it has 37 million views. This meme evolved and spread as Greenpeace launched an alarming campaign in 2018 calling for a reduction in plastic consumption due to its impact on wildlife.
 
-![](/media/1__cL0JDCT8wCvVaF9yK8nxkg.jpeg)
+![straw turtle](/media/1__cL0JDCT8wCvVaF9yK8nxkg.jpeg)
 
 Later in 2019, the European Parliament [approved a new law](http://www.europarl.europa.eu/news/en/press-room/20190321IPR32111/parliament-seals-ban-on-throwaway-plastics-by-2021) banning single-use plastic items, notably including straws. The topic has come up more than once in some of my woke circles and I believe the decision marks positive progress.
 

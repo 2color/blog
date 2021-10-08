@@ -35,7 +35,7 @@ Nevertheless, I met a local named Cindy and she took me to a bar area targeted a
 
 Following a toxic combination of jet lag, lack exposure to natural light, and busy urban life I decided to venture aimlessly into one of the forests surrounding Taipei in the hope of calming down a little. Taipei has an amazing public transport system that includes trains, buses, and bicycles all unified with a contactless payment system called [Easycard](https://www.easycard.com.tw/en/introduction?id=1). Easycard extends as a payment system which can be used in many retailers. Being an avid cyclist and having no specific destination in mind, I grabbed a shared Ubike and rode through the river side park to the forest.
 
-![](/media/1__SoIcEU7__4Ep____rDaRq3H9Q.jpeg)
+![taiwan](/media/1__SoIcEU7__4Ep____rDaRq3H9Q.jpeg)
 
 Shortly after a hike through the forest, I was soaking wet from the heat and humidity, so I found a quiet reading spot not far a Buddhist temple in the forest.
 

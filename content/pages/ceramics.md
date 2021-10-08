@@ -9,8 +9,8 @@ Wheel Thrown Pottery has been an ancient practice that is still used and valued 
 
 Below are some of my ceramics.
 
-![](/media/ceramics1.png)
+![cermaic bowel](/media/ceramics1.png)
 
-![](/media/ceramics2.png)
+![green and blue cermaic bowels](/media/ceramics2.png)
 
-![](/media/ceramics3.png)
+![cups](/media/ceramics3.png)
