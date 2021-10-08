@@ -1,5 +1,6 @@
 ---
 title: 'Art'
+description: "Daniel Norman's art projects"
 template: 'page'
 socialImage: '/media/art/object.jpg'
 ---

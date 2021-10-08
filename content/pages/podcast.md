@@ -1,5 +1,6 @@
 ---
 title: 'Modern Conversations Podcast'
+description: "Bringing perspectives and personal stories about technology, psychology, philosophy"
 template: 'page'
 socialImage: '/media/podcast.png'
 ---

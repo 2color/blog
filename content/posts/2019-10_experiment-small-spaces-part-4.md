@@ -1,6 +1,6 @@
 ---
-title: experiment in small spaces | step 4
-description: 'Building a murphy bed'
+title: Experiment in small spaces | Step 4
+description: 'Construction of the Murphy bed'
 date: '2019-10-11T16:10:02.848Z'
 category: 'Blog'
 tags:

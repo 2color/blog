@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://norman.life',
   pathPrefix: '/',
   title: 'Daniel Norman',
-  subtitle: 'Daniel Norman\'s Website',
+  subtitle: 'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
@@ -25,7 +25,7 @@ module.exports = {
       path: '/pages/art'
     },
     {
-      label: 'Modern Conversations Podcast',
+      label: 'Podcast',
       path: '/pages/podcast'
     },
     {
@@ -40,17 +40,17 @@ module.exports = {
   author: {
     name: 'Daniel Norman',
     photo: '/photo.jpg',
-    bio: 'Creator and meditator with a pinch of curiosity.',
+    bio: 'Developer, maker, writer, and meditator with a pinch of curiosity.',
     contacts: {
       email: 'daniel [at] norman.life',
       facebook: '#',
       telegram: '#',
       twitter: '@daniel2color',
       github: '2color',
-      rss: '',
+      rss: 'https://norman.life/rss.xml',
       vkontakte: '',
       linkedin: 'danorman',
-      instagram: '2colorme',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: ''

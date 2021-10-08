@@ -1,5 +1,5 @@
 ---
-title: Reminiscing On the Early Days of the Internet
+title: Reminiscing on the Early Days of the Internet
 description: 'How the Internet changed'
 # startingDate: '2021-04-10T14:00:00.000Z'
 date: '2021-08-14T14:00:00.000Z'
@@ -11,7 +11,8 @@ draft: false
 socialImage: ''
 ---
 
-Every once in a while, I get nostalgic and think about the good old days. And often, while reflecting, my rational voice kicks in and reminds me that they weren't that good. Just think about the days before we had antibiotics, or how crazy people were to get on a transpacific flight loaded up with fuel and then smoke on it. 
+#
+Every once in a while, I get nostalgic and think about the good old days. And often, while reflecting, my rational voice kicks in and reminds me that maybe they weren't that good. Just think about the days before we had antibiotics, or how crazy people were to get on a transpacific flight loaded up with fuel and then smoke on it.
 
 So I had one of these moments of nostalgia. I was reminiscing about my memories of discovering the Internet in the early 90s. We just got this white U.S Robotics 56k modem brought to us from the U.S. It had a large dial on the left side for the volume. We only had one phone line, which the modem would block. 
 
@@ -19,9 +20,9 @@ I'd wake up really early before anyone was up and sneak into my parents' room, w
 
 The Internet has changed a lot since. Both positively and negatively. From a fringe playful virtual space to becoming the most important information spehere we check in the morning.
 
-Wne of the most remarkable milestones of the Internet was both subtle and extraordinary. We went through an **infrastructure inversion** — the Internet used the outdated phone infrastructure until the Internet's growth and demands could not be met by the phone infrastructure. Eventually, it became the Internet infrastructure that telecommunication was running on; alongside Facebook, Netflix, YouTube, and all the other giant global corporations. 
+One of the most remarkable milestones of the Internet was both subtle and extraordinary. We went through an **infrastructure inversion** — the Internet used the outdated analogue phone infrastructure until the Internet's growth and demands could not be met by the increasingly archaic analogue phone infrastructure. New submarine fiber optic cables capable of transmitting digital data at much faster rates were gradually deployed to accomodate for the growing demands of the Internet. Eventually the capacity of the Internet infrastructure outgrew the old and outdated phone infrastructure as more people wanted Internet access. Now, every phone call is carried over the internet, not the other way around.
 
-We also have Internet native money with Bitcoin, ubiquitous encryption, and amazing projects like Wikipedia, and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) – a digital archive with the mission to give universal access to all knowledge. It's easy to forget that it was almost impossible to communicate securely and privately online 30 years ago.
+We now also have Internet native money with Bitcoin, ubiquitous encryption, and amazing projects like Wikipedia, and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) – a digital archive with the mission to give universal access to all knowledge. It's easy to forget that it was nearly impossible to communicate securely and privately online 30 years ago.
 
 The Internet was revolutionary and it arguably still is. But it's changed, it's grown up from being fun and playful into something mature that has a dark side. We're now at the stage where we've grown accustomed – and even dependent – to the utility and convenience it provides. All the while, we're learning about the perverse effects it has on us as individuals and society. Entrenching political polarisation, becoming an instrument of mass control, and making us feel lonely while overloading us with more information than we can possibly handle.
 
@@ -31,7 +32,11 @@ The Internet was revolutionary and it arguably still is. But it's changed, it's 
 
 Pokemon Go is a cautionary tale. A fun new technology that quickly becomes questionable. Pokemon Go had over a billion downloads – that's about every 8th person in the world who left their home on an adventure to capture virtual characters. If that's not some kind of collective mania – I'm not sure what is. But maybe it's all innocent, fun, and playful? -->
 
-The ever accelerating pace of societal and technological change in the last decade has made the Internet a fertile ground for information warfare. It's no surprise, given that the Internet basically gives anyone a megaphone. One-to-many communication is as available to anyone as it's ever been with blogs, Twitter, Substack, [Mirror](https://mirror.xyz/), Telegram, YouTube, and many more. Not all of these platform are equally censorship resistent. But practically anyone with access to the Internet can spread their ideas. And we're left to make sense of the world when there's so much conflicting information being thrown at us. 
+The ever accelerating pace of societal and technological change in the last decade has made the Internet a fertile ground for a two kinds of warfare: **information warfare** and **cyber warfare**.
+
+What do I mean by information warefare? The Internet basically gives anyone a megaphone. One-to-many communication is as available to anyone as it's ever been with blogs, Twitch, Twitter, Substack, [Mirror](https://mirror.xyz/), Telegram, YouTube, and many more. Not all of these platform are equally censorship resistent. But practically anyone with access to the Internet can spread their ideas. And we're left to make sense of the world when there's so much conflicting information being thrown at us.
+
+Cyber warfare
 
 How can we trust our institutions when they lie to us, as was the case when many health experts, no doubt motivated by the sensible and urgent aim of preserving the remaining masks for health care workers, started telling people that they didn’t need masks or that they wouldn’t know how to wear them.
 

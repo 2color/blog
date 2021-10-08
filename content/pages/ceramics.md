@@ -1,5 +1,6 @@
 ---
 title: 'Ceramics'
+description: "Daniel Norman's hand made ceramics"
 template: 'page'
 socialImage: '/media/ceramics2.png'
 ---

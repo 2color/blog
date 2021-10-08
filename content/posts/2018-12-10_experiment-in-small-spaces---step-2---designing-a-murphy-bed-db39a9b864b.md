@@ -1,6 +1,6 @@
 ---
-title: experiment in small spaces | step 2
-description: Designing a murphy bed
+title: Experiment in small spaces | Part 2
+description: Designing a murphy bed in 3D
 date: '2018-12-10T16:25:28.909Z'
 category: "Blog"
 tags: [Industrial Design, Design,Murphy Bed,Furniture,DIY,Woodworking,Makers,3D Modeling]
