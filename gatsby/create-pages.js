@@ -22,10 +22,11 @@ const createPages = async ({ graphql, actions }) => {
   });
 
   // Categories list
-  createPage({
-    path: '/categories',
-    component: path.resolve('./src/templates/categories-list-template.js')
-  });
+  // Disable as there is only one category (`blog`)
+  // createPage({
+  //   path: '/categories',
+  //   component: path.resolve('./src/templates/categories-list-template.js')
+  // });
 
   // Posts and pages from markdown
   const result = await graphql(`
@@ -52,13 +53,13 @@ const createPages = async ({ graphql, actions }) => {
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
       createPage({
-        path: edge.node.fields.slug,
+        path: `${edge.node.fields.slug}`,
         component: path.resolve('./src/templates/page-template.js'),
         context: { slug: edge.node.fields.slug }
       });
     } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
       createPage({
-        path: edge.node.fields.slug,
+        path: `${edge.node.fields.slug}/`,
         component: path.resolve('./src/templates/post-template.js'),
         context: { slug: edge.node.fields.slug }
       });

@@ -17,7 +17,7 @@ draft: false
 
 Taking that step back was a unique chance to retreat from the high speed flow of information. That includes Github, social networks, hacker news, and the likes. I had reached a point where I was comfortable with my professional trajectory as a developer. So I signed up for a meditation retreat up in Dharamsala, a hill station in the Himalayas and home to a large part of the Tibetan Diaspora including the 14th Dalai Lama.
 
-`oembed: https://www.instagram.com/p/9lCt_FiNLG/`
+<!-- `oembed: https://www.instagram.com/p/9lCt_FiNLG/` -->
 
 Meditation is really the art of doing nothing but observing. Not in a lazy slouching on the couch way. Simply observing the stream of consciousness turns out to be quite hard to master and so it’s usually suggested to be in the most supportive environment. After 10 days in silence I experienced a subtle yet noticeable sense of clarity. My dreams became vivid and I became more mindful of my everyday activities.
 
@@ -73,8 +73,8 @@ Our world is full of epistemic arrogance. The term was coined by Nassim Taleb.
 
 We have a tendency to think we know more than we actually do. So take everything with a pinch of salt. My experience, starting jogging as a sport has been transformational. The transformation is purely anecdotal and I don’t want to fall prey to the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), but I came across [multiple](https://www.theguardian.com/education/2016/jun/18/how-physical-exercise-makes-your-brain-work-better) [articles](http://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) praising the benefits of exercise. Finding sports I like and living an active lifestyle has impacted many aspects of my life. The metaphor of things in life not being a sprint but a marathon couldn’t apply more.
 
-`embed: https://www.instagram.com/p/BJyiyIVD9bA/`
+<!-- `embed: https://www.instagram.com/p/BJyiyIVD9bA/` -->
 
-> Find your spot in this crazy world
+<!-- > Find your spot in this crazy world -->
 
 2016 was a year I’ll look back to. Things are changing and the pace at which they’re changing seems to accelerate. The world as we see it may be completely different in a couple of years from now. Finding inner peace and satisfaction in your professional life is a tool for dealing with an ever changing world. And despite some of the privileges this era has brought, many questions have been left unanswered. Leading a meaningful and balanced life in software is probably within reach. So continue exploring and take things with a pinch of salt. I certainly will.

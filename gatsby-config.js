@@ -44,6 +44,12 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-force-trailing-slashes`,
+      options: {
+        excludedPaths: [`/404.html`],
+      }
+    },
+    {
       resolve: 'gatsby-plugin-feed',
       options: {
         query: `
@@ -64,8 +70,8 @@ module.exports = {
                 Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.description,
                   date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.site_url + edge.node.fields.slug,
-                  guid: site.siteMetadata.site_url + edge.node.fields.slug,
+                  url: `${site.siteMetadata.site_url}${edge.node.fields.slug}/`,
+                  guid: `${site.siteMetadata.site_url}${edge.node.fields.slug}/`,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
                 })
               ),
@@ -223,6 +229,6 @@ module.exports = {
       }
     },
     'gatsby-plugin-flow',
-    'gatsby-plugin-optimize-svgs'
+    'gatsby-plugin-optimize-svgs',
   ]
 }

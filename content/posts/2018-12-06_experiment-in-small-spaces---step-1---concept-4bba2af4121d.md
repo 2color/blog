@@ -1,5 +1,5 @@
 ---
-title: experiment in small spaces | step 1
+title: Experiment in small spaces | Part 1
 description: Concept for making a small 11 m² room multifunctional
 date: '2018-12-06T16:42:01.710Z'
 category: "Blog"

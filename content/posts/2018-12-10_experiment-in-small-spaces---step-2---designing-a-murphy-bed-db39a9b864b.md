@@ -1,6 +1,6 @@
 ---
-title: experiment in small spaces | step 2
-description: Designing a murphy bed
+title: Experiment in small spaces | Part 2
+description: Designing a murphy bed in 3D
 date: '2018-12-10T16:25:28.909Z'
 category: "Blog"
 tags: [Industrial Design, Design,Murphy Bed,Furniture,DIY,Woodworking,Makers,3D Modeling]
@@ -41,7 +41,7 @@ I finally found [heavy duty chair swivels](https://www.amazon.de/gp/product/B00T
 
 To be able to design everything to accurately to size, I decided to 3D model the bed on Sketchup.
 
-![](/media/1__7NLvtNaRjgU567UssR3tqA.jpeg)
+![3d model](/media/1__7NLvtNaRjgU567UssR3tqA.jpeg)
 
 The bed consists of a base which I’ll fix to the wall and a mattress frame that moves 45 degrees. A shelf will be built as the leg for the mattress frame. A slatted frame will also be integrated to keep the mattress ventilated. Additionally, a couple elastic straps will be used to prevent the mattress from coming out of the frame when closed.
 

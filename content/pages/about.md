@@ -1,14 +1,17 @@
 ---
 title: 'About me'
+description: 'About Daniel Norman'
 template: 'page'
 socialImage: ''
 ---
 
-I'm a software engineer, writer, public speaker, and maker.
+Hey, I'm Daniel. I'm a software engineer, writer, public speaker, and maker.
+
+I currently working as a developer advocate at [Prisma](https://www.prisma.io).
 
 I take joy in solving complex problems with elegant solutions by simplifying and distilling core concepts.
 
-I've worked at early stage startups and in the Open Source space building products iteratively.
+I've worked at early stage startups and in the open-source space building products iteratively.
 
 I'm proficient in full stack development and DevOps in cloud environments with a track record of owning the full cycle from idea to production and owning operating services using many of the [SRE](https://landing.google.com/sre/books/) principles.
 
@@ -19,8 +22,8 @@ I take an active interest in technology, economics, psychology, arts, and how th
 
 The methodological and interpersonal aspect of software engineering has always interested me. My work in cross-functional teams has been a constant learning process, in which I grew professionally and interpersonally.
 
-I'm a proponent of the open source software and have contributed to several projects in addition to maintaining several open source projects.
+I'm a proponent of the open-source software and have contributed to several projects in addition to maintaining several open-source projects.
 
-When I'm not working in front of screen, I enjoy furniture design, woodworking, nature 🌳⛵️⛰, bicycle mechanics, and motorcylcing.
+When I'm not working in front of screen, I enjoy cooking, reading, furniture design, woodworking, nature 🌳⛵️⛰, bicycle mechanics, and motorcylcing.
 
-![](/media/me-iceland.png)
+![me in Iceland](/media/me-iceland.png)

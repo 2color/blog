@@ -11,7 +11,7 @@ draft: false
 
 Today I discovered an interesting notification on my twitter account.
 
-![](/media/1__sGOTvMNEd3cYtAhpKQH7Hg.png)
+![followed on Twitter](/media/1__sGOTvMNEd3cYtAhpKQH7Hg.png)
 
 Sussan Bennet is the voice artist behind Siri. It’s extraordinary that this situation could be described as my digital assistant from the cloud has followed me on twitter.
 
@@ -34,7 +34,7 @@ In Her, it appears that Samantha is conscious. She behaves like a human and seem
 
 In the episode “[Hang the DJ](https://en.wikipedia.org/wiki/Hang_the_DJ_%28Black_Mirror%29)” of Black Mirror, we are suddenly immersed in a futuristic world geared towards dating. The world advanced technology in the form of a personal dating assistant that sends you on dates and guides you through a relationship. Frank, who cycles through numerous relationships one after the other begins showing signs of disillusionment. Especially when he stumbles upon the woman he dated earlier, about which he feels a sense of remorse for it not having worked. The episodes ends on an optimistic note when it’s revealed that the futuristic world was a mere simulation as part of a dating app to measure the potential success of a relationship.
 
-![](/media/1__DTm7vDARZEjT5WFeY9b2Fw.png)
+![black mirror](/media/1__DTm7vDARZEjT5WFeY9b2Fw.png)
 
 Despite an uplifting ending, I wondered, were all those feelings of misery and remorse real? Can the Frank in the simulation experience the full human spectrum the way the real Frank does? This is part of the alarm. What if the AI is subject to the same moral concerns of humans?
 

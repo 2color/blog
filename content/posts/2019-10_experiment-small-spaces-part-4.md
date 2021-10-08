@@ -1,6 +1,6 @@
 ---
-title: experiment in small spaces | step 4
-description: 'Building a murphy bed'
+title: Experiment in small spaces | Part 4
+description: 'Construction of the Murphy bed'
 date: '2019-10-11T16:10:02.848Z'
 category: 'Blog'
 tags:
@@ -23,9 +23,9 @@ socialImage: '/media/murphy-bed-final-7.jpg'
 This is a series about the design and construction of a murphy bed – a bed that folds into the wall and looks like a wardrobe.
 Previous posts:
 
-- [Part 1 - concept](/experiment-in-small-spaces-step-1-concept)
-- [Part 2 - Design](/experiment-in-small-spaces-step-2-designing-a-murphy-bed)
-- [Part 3 - Joinery](/experiment-in-small-spaces-step-3-joinery)
+- [Part 1 - concept](/posts/experiment-in-small-spaces-step-1-concept/)
+- [Part 2 - Design](/posts/experiment-in-small-spaces-step-2-designing-a-murphy-bed/)
+- [Part 3 - Joinery](/posts/experiment-in-small-spaces-step-3-joinery/)
 
 In this post, I will cover the final stage of construction of the Murphy bed and challenges encountered along the way.
 
@@ -38,17 +38,17 @@ Moreover, I realised that for the bed to look nice, it has to integrate visually
 
 Because I designed the bed in Sketchup, I could easily generate a cut list with the [Cutlist plugin for Sketchup](https://extensions.sketchup.com/pl/content/cutlist). This is one of the many reasons for designing upfront in 3D.
 
-![](/media/cut-list-all.png)
+![wood cut list](/media/cut-list-all.png)
 
 ## Construction
 
 Besides space restrictions arising from construction in such a tight space, building the mattress base and the enclosing frame went pretty smoothly.
 
-![](/media/murphy-bed-1.png)
-![](/media/murphy-bed-2.png)
-![](/media/murphy-bed-3.png)
-![](/media/murphy-bed-matterss-frame.png)
-![](/media/murphy-bed-7.png)
+![Murphy bed construction](/media/murphy-bed-1.png)
+![Murphy bed construction](/media/murphy-bed-2.png)
+![Murphy bed construction](/media/murphy-bed-3.png)
+![Murphy bed mattress frame](/media/murphy-bed-matterss-frame.png)
+![Murphy bed construction](/media/murphy-bed-7.png)
 
 ## Hinges
 
@@ -61,8 +61,8 @@ For further robustness, I used threaded inserts and M6 machine screws to distrib
 	<figcaption>Threaded insert is screwed into a predrilled hole in wood and acts as a female for machine screws</figcaption>
 </figure>
 
-![](/media/murphy-bed-4.png)
-![](/media/murphy-bed-5.png)
+![Murphy bed](/media/murphy-bed-4.png)
+![Murphy bed construction](/media/murphy-bed-5.png)
 
 ## The finish
 
@@ -72,13 +72,13 @@ To utilise the space on the left of the bed, I cut shelves to size and fixed the
 
 Lastly, the multipurpose shelf and frame leg was closed and fixed. After sanding I applied some wax and the wood came to life. A truly exciting moment.
 
-![](/media/murphy-bed-final-1.jpg)
-![](/media/murphy-bed-final-2.jpg)
-![](/media/murphy-bed-final-3.jpg)
-![](/media/murphy-bed-final-4.jpg)
-![](/media/murphy-bed-final-5.jpg)
-![](/media/murphy-bed-final-6.jpg)
-![](/media/murphy-bed-final-7.jpg)
+![Murphy bed](/media/murphy-bed-final-1.jpg)
+![Murphy bed](/media/murphy-bed-final-2.jpg)
+![Murphy bed](/media/murphy-bed-final-3.jpg)
+![Murphy bed](/media/murphy-bed-final-4.jpg)
+![Murphy bed](/media/murphy-bed-final-5.jpg)
+![Murphy bed](/media/murphy-bed-final-6.jpg)
+![Murphy bed](/media/murphy-bed-final-7.jpg)
 
 ## Last words
 

@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://norman.life',
   pathPrefix: '/',
-  title: 'Daniel Norman',
-  subtitle: 'Daniel Norman\'s Website',
+  title: "Daniel Norman's personal website",
+  subtitle: 'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-149858060-1',
   useKatex: false,
   menu: [
@@ -18,39 +18,39 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about/'
     },
     {
       label: 'Art',
-      path: '/pages/art'
+      path: '/pages/art/'
     },
     {
-      label: 'Modern Conversations Podcast',
-      path: '/pages/podcast'
+      label: 'Podcast',
+      path: '/pages/podcast/'
     },
     {
       label: 'Ceramics',
-      path: '/pages/ceramics'
+      path: '/pages/ceramics/'
     },
     {
       label: 'Industrial Design',
-      path: '/tag/industrial-design'
+      path: '/tag/industrial-design/'
     }
   ],
   author: {
     name: 'Daniel Norman',
     photo: '/photo.jpg',
-    bio: 'Creator and meditator with a pinch of curiosity.',
+    bio: 'Developer, maker, writer, and meditator with a pinch of curiosity.',
     contacts: {
       email: 'daniel [at] norman.life',
       facebook: '#',
       telegram: '#',
       twitter: '@daniel2color',
       github: '2color',
-      rss: '',
+      rss: 'https://norman.life/rss.xml',
       vkontakte: '',
       linkedin: 'danorman',
-      instagram: '2colorme',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: ''

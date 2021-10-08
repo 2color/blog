@@ -1,13 +1,17 @@
 ---
 title: 'Art'
+description: "Daniel Norman's art projects"
 template: 'page'
 socialImage: '/media/art/object.jpg'
 ---
 
-## Komisch geträumt | Strange Dreams
+## Komisch Geträumt | Strange Dreams
 
-![](/media/art/object.jpg)
+The object invites you to an act and allows to make its traces disappear.
+Just like my dreams, whose contents of reality remains bent.
 
-![](/media/art/description.png)
+![final art object](/media/art/object.jpg)
 
-![](/media/art/process.png)
+![description](/media/art/description.png)
+
+![process](/media/art/process.png)
