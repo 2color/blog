@@ -26,7 +26,7 @@ module.exports = {
     },
     {
       label: 'Podcast',
-      path: '/pages/podcas/'
+      path: '/pages/podcast/'
     },
     {
       label: 'Ceramics',
