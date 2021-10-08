@@ -8,7 +8,7 @@ module.exports = {
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-149858060-1',
   useKatex: false,
   menu: [
