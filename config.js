@@ -37,7 +37,7 @@ module.exports = {
       path: '/tag/woodworking/'
     },
     {
-      label: 'Tag',
+      label: 'Tags',
       path: '/tags/'
     }
   ],
