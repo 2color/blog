@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://norman.life',
   pathPrefix: '/',
-  title: 'Daniel Norman',
+  title: "Daniel Norman's personal website",
   subtitle: 'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
