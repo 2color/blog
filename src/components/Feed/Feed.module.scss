@@ -21,7 +21,9 @@
         &:hover,
         &:focus {
           color: $color-base;
-          border-bottom: 1px solid $color-base;
+          // background-color: rgba(250, 91, 6, 0.3);
+          background-color: $color-highlight;
+          // border-bottom: 1px solid $color-base;
         }
 
       }
