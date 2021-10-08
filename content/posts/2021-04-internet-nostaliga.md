@@ -63,7 +63,7 @@ Pokemon Go is a cautionary tale. A fun new technology that quickly becomes quest
 
 I mostly wrote this blog post as a primer on how I see the future of the Internet and the technologies that aim to make it better.
 
-In a [previous article](https://norman.life/posts/why-does-decentralisation-matter), published 3 years ago, I argued that **decentralisation** is the path towards a healthier Internet – one that puts the power in the hands of individuals.
+In a [previous article](/posts/why-does-decentralisation-matter/), published 3 years ago, I argued that **decentralisation** is the path towards a healthier Internet – one that puts the power in the hands of individuals.
 
 Since then, there's been tremendous progress on many projects/networks in the decentralisation space that I highly recommend checking out:
 
