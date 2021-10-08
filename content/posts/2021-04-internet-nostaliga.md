@@ -1,16 +1,19 @@
 ---
-title: Internet Nostalgia
-description: 'How the Internet grew out of its innocence and the road ahead with decentralisation'
-# startingDate: '2021-04-10T14:00:00.000Z'
-date: '2021-10-08T14:00:00.000Z'
-category: 'Blog'
-tags: ['Ethereum', 'Decentralisation', 'Bitcoin', 'Crypto']
+template: post
 slug: internet-nostalgia
-template: 'post'
 draft: false
-socialImage: ''
+socialImage: ""
+title: Internet Nostalgia
+date: 2021-10-08T14:00:00.000Z
+description: How the Internet grew out of its innocence and the road ahead with
+  decentralisation
+category: Blog
+tags:
+  - Ethereum
+  - Decentralisation
+  - Bitcoin
+  - Crypto
 ---
-
 ## How it started
 
 Every once in a while, I get nostalgic and think about the good old days. And often, while reflecting, my rational voice kicks in and reminds me that maybe they weren't that good. Just think about the days before we had antibiotics, or how crazy people were to get on a transpacific flight loaded up with fuel and then smoke on it.
@@ -49,13 +52,13 @@ In the good old days, the web was much smaller. Google didn't exist, so you'd re
 
 ## Voluntary surveillance
 
-Having worked in Adtech (advertising technology), I'm intimately familiar with the extent to which information is collected on users. You're constantly watched everywhere on the Internet. Our behavioural patterns are analysed by algorithms that then show us exactly what we want to see - a projection of our fragile egos. This is probably not news to most of us. We even have new terms to describe our predicament: [**surveillance capitalism**](https://en.wikipedia.org/wiki/Surveillance_capitalism) and **techno feudalism** to name a few.
+Having worked in Adtech (advertising technology), I'm intimately familiar with the extent to which information is collected on users. You're constantly watched everywhere on the Internet. Our behavioural patterns are analysed by algorithms that then show us exactly what we want to see - a projection of our fragile egos. This is probably not news to most of us. We even have new terms to describe our predicament: **[surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism)** and **techno feudalism** to name a few.
 
-However, the reality is more complex than a simplistic narrative about evil companies. [FAANG] companies have a problem with incentives – their "free" products aren't really free. In fact, you are the product in the form of your data which they essentially sell to advertisers.
+However, the reality is more complex than a simplistic narrative about evil companies. \[FAANG] companies have a problem with incentives – their "free" products aren't really free. In fact, you are the product in the form of your data which they essentially sell to advertisers.
 
 Furthermore, it seems to me that most people are happy to give their data away. Remember the 2016 Pokémon Go craze?
 
-> "Pokémon Go is a virtual reality game for mobile phones. It uses GPS to locate, capture, train, and battle virtual creatures, called Pokémon, which appear as if they are in the player's real-world location. The game is free-to-play; it uses a freemium business model combined with local advertising and supports in-app purchases for additional in-game items. It was one of the most used and profitable mobile apps in 2016, having been downloaded more than 500 million times worldwide by the end of the year. The game had over a billion global downloads by early 2019, and grossed more than \$6 billion in revenue as of 2020." ~ Paraphrased from Wikipedia
+> "Pokémon Go is a virtual reality game for mobile phones. It uses GPS to locate, capture, train, and battle virtual creatures, called Pokémon, which appear as if they are in the player's real-world location. The game is free-to-play; it uses a freemium business model combined with local advertising and supports in-app purchases for additional in-game items. It was one of the most used and profitable mobile apps in 2016, having been downloaded more than 500 million times worldwide by the end of the year. The game had over a billion global downloads by early 2019, and grossed more than $6 billion in revenue as of 2020." ~ Paraphrased from Wikipedia
 
 Pokemon Go is a cautionary tale. A fun new technology that quickly becomes questionable. Pokemon Go had over a billion downloads – that's about every 8th person in the world who left their home on an adventure to capture virtual characters. If that's not some kind of collective mania – I'm not sure what is. But perhaps it's just innocent, fun, and playful?
 
@@ -67,24 +70,24 @@ In a [previous article](/posts/why-does-decentralisation-matter/), published 3 y
 
 Since then, there's been tremendous progress on many projects/networks in the decentralisation space that I highly recommend checking out:
 
-- [Ethereum](https://ethereum.org/en/): The community-run technology powering the cryptocurrency, ether (ETH), and thousands of decentralized applications.
-- [Bitcoin](https://bitcoin.org/en/): Decentralised Internet money.
-- [IPFS](https://ipfs.io/) and [Filecoin](https://filecoin.io/): Decentralised storage – like Dropbox without the company.
-- [Ethereum Name System](https://ens.domains/): Decentralised naming system – like DNS but fully decentralised.
-- [Mirror.xyz](https://mirror.xyz/): Decentralized, user-owned, crypto-based network, Mirror’s publishing platform revolutionizes the way we express, share, and monetize our thoughts. Built on Ehtereum.
-- [Klima DAO](https://klimadao.finance/): A carbon-backed digital currency and algorithmic climate protocol that aims to create an economy where more economic activity leads to an acceleration in planetary regeneration rather than more damage to our planet. Built on Ehtereum.
-- [radicle](https://radicle.xyz/): Peer-to-peer stack for building software together. Like GitHub but decentralised.
+* [Ethereum](https://ethereum.org/en/): The community-run technology powering the cryptocurrency, ether (ETH), and thousands of decentralized applications.
+* [Bitcoin](https://bitcoin.org/en/): Decentralised Internet money.
+* [IPFS](https://ipfs.io/) and [Filecoin](https://filecoin.io/): Decentralised storage – like Dropbox without the company.
+* [Ethereum Name System](https://ens.domains/): Decentralised naming system – like DNS but fully decentralised.
+* [Mirror.xyz](https://mirror.xyz/): Decentralized, user-owned, crypto-based network, Mirror’s publishing platform revolutionizes the way we express, share, and monetize our thoughts. Built on Ehtereum.
+* [Klima DAO](https://klimadao.finance/): A carbon-backed digital currency and algorithmic climate protocol that aims to create an economy where more economic activity leads to an acceleration in planetary regeneration rather than more damage to our planet. Built on Ehtereum.
+* [radicle](https://radicle.xyz/): Peer-to-peer stack for building software together. Like GitHub but decentralised.
 
 Each of these projects is worthy of several blog posts on its own. But I think these are going to play a more prominent role in the future of the Internet.
 
-As of 2017, approximately 1.7 billion people remain unbanked in emerging economies. In the near term, I can see Bitcoin and Ethereum being the leapfrog solution in **banking the unbanked**.
+As of 2017, approximately 1.7 billion people remain unbanked in emerging economies. In the near term, I can see Bitcoin and Ethereum being the leapfrog solution to **banking the unbanked**.
 
 ## Hurdles to mainstream adoption
 
-Without getting to bogged down by the technical details of each technology mentioned above, I'll share what I see as the two main hurdles for mainstream adoption:
+Without getting too bogged down by the technical details of each technology mentioned above, I'll share what I see as the two main hurdles for mainstream adoption:
 
-- **Scalability**
-- **User experience**
+* **Scalability**
+* **User experience**
 
 Additionally, I'll explore the solutions being developed to solve those.
 
@@ -100,8 +103,8 @@ Creating a crypto wallet is a matter of installing an app on your phone. The fir
 
 While software wallets are great, they are also more prone to attacks. At the time of writing the highest security is offered by hardware wallets. These are devices that do two things:
 
-- Hold your private key securely so that their keys never leave the hardware wllet
-- Create transactions on the device
+* Hold your private key securely so that their keys never leave the hardware wllet
+* Create transactions on the device
 
 More broadly, using Bitcoin and Ethereum comes with more responsibilities than the traditional financial system because as a user you are self-sovreign.
 
@@ -133,7 +136,7 @@ Scalability being one of the main challenges for both Bitcoin and Ethereum, has 
 
 For Bitcoin, [the Lightning network](https://en.wikipedia.org/wiki/Lightning_Network) is the defacto scalability solution. It's already being used in El Salvador, where the government has made Bitcoin legal tender and introduced a wallet utilising the Lightning Network protocol. With the Lightning network, transactions are almost instant and cost around `$0.0007 + 0.030% (of transaction value)`.
 
-For Ethereum, [**Rollups**](https://vitalik.ca/general/2021/01/05/rollup.html) are poised to be the main scalability solution in the foreseeable future. At the time of writing, there are [numerous Rollup](https://l2beat.com/) deployed on Ethereum that [signifcantly reduce the costs of transacting](https://l2fees.info/) to under a dollar.
+For Ethereum, **[Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)** are poised to be the main scalability solution in the foreseeable future. At the time of writing, there are [numerous Rollup](https://l2beat.com/) deployed on Ethereum that [signifcantly reduce the costs of transacting](https://l2fees.info/) to under a dollar.
 
 ## Final words
 
