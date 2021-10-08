@@ -1,5 +1,5 @@
 ---
-title: Experiment in small spaces | Step 4
+title: Experiment in small spaces | Part 4
 description: 'Construction of the Murphy bed'
 date: '2019-10-11T16:10:02.848Z'
 category: 'Blog'
@@ -23,9 +23,9 @@ socialImage: '/media/murphy-bed-final-7.jpg'
 This is a series about the design and construction of a murphy bed – a bed that folds into the wall and looks like a wardrobe.
 Previous posts:
 
-- [Part 1 - concept](/experiment-in-small-spaces-step-1-concept)
-- [Part 2 - Design](/experiment-in-small-spaces-step-2-designing-a-murphy-bed)
-- [Part 3 - Joinery](/experiment-in-small-spaces-step-3-joinery)
+- [Part 1 - concept](/posts/experiment-in-small-spaces-step-1-concept/)
+- [Part 2 - Design](/posts/experiment-in-small-spaces-step-2-designing-a-murphy-bed/)
+- [Part 3 - Joinery](/posts/experiment-in-small-spaces-step-3-joinery/)
 
 In this post, I will cover the final stage of construction of the Murphy bed and challenges encountered along the way.
 
