@@ -33,8 +33,12 @@ module.exports = {
       path: '/pages/ceramics/'
     },
     {
-      label: 'Industrial Design',
-      path: '/tag/industrial-design/'
+      label: 'Woodworking',
+      path: '/tag/woodworking/'
+    },
+    {
+      label: 'Tag',
+      path: '/tags/'
     }
   ],
   author: {

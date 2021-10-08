@@ -31,7 +31,7 @@ In this post, I will cover the final stage of construction of the Murphy bed and
 
 ## Change of plans
 
-In [part 2](/experiment-in-small-spaces-step-2-designing-a-murphy-bed), I explored different joinery techniques and the options for knock-down joints. I wanted to make it possible to easily disassemble the bed. That turned out to be a difficult undertaking. Especially given the weight-bearing requirements from the heavy structure.
+In [part 2](/posts/experiment-in-small-spaces-step-2-designing-a-murphy-bed/), I explored different joinery techniques and the options for knock-down joints. I wanted to make it possible to easily disassemble the bed. That turned out to be a difficult undertaking. Especially given the weight-bearing requirements from the heavy structure.
 Moreover, I realised that for the bed to look nice, it has to integrate visually into the room and be fixed to the wall. I consequently ditched the idea of knock-down joints and opted for pocket hole joints.
 
 ## Cut list
