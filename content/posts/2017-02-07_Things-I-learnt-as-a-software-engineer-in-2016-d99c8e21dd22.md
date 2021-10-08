@@ -11,7 +11,7 @@ template: 'post'
 draft: false
 ---
 
-![](/media/1__lDRx07uarfldlqbPGf9H__Q.jpeg)
+![opening image](/media/1__lDRx07uarfldlqbPGf9H__Q.jpeg)
 
 2016 has been an exhilarating year for me professionally. To give you some context, I must first begin with how I started 2016. I had been working for a Berlin based startup for 4 years and decided to take unpaid leave and go to India for 3 months. Those 4 years were a great chance to taste so many different technologies, ranging from large scale javascript applications to system programming in the [D programming language](https://dlang.org/).
 

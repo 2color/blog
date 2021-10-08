@@ -1,6 +1,6 @@
 ---
 title: Reminiscing on the Early Days of the Internet
-description: 'How the Internet grew out of its innocance and the road ahead with decentralisation'
+description: 'How the Internet grew out of its innocence and the road ahead with decentralisation'
 # startingDate: '2021-04-10T14:00:00.000Z'
 date: '2021-10-08T14:00:00.000Z'
 category: 'Blog'
