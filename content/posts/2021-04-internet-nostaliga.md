@@ -108,7 +108,7 @@ While software wallets are great, they are also more prone to attacks. At the ti
 
 The key idea with hardware wallets is that the private key never leaves the hardware wallet thereby protecting it from theft through viruses and malware attacks (which software wallets are prone to).
 
-Both software and hardware wallets have this notion of a recovery a recovery phrase –also known as a seed phrase–. This is a 12 or 24 word sequence that is displayed when you create a new private key and can be used to recover your private key. Typically it's written on paper and stored in a safe. 
+Both software and hardware wallets have this notion of a recovery a recovery phrase –also known as a seed phrase–. This is a 12 or 24-word sequence that is displayed when you create a new private key and can be used to recover your private key. Typically it's written on paper and stored in a safe. 
 
 If you change phone or lose your hardware wallet, you enter the recovery phase into the new device and regain access to your funds. 
 
