@@ -110,7 +110,7 @@ The key idea with hardware wallets is that the private key never leaves the hard
 
 Both software and hardware wallets have this notion of a recovery a recovery phrase –also known as a seed phrase–. This is a 12 or 24 word sequence that is displayed when you create a new private key and can be used to recover your private key. Typically it's written on paper and stored in a safe. 
 
-If you change phone or lose your hardware wallet, you enter the recovery phase into the new device and regain access to your funds. You can also have 
+If you change phone or lose your hardware wallet, you enter the recovery phase into the new device and regain access to your funds. 
 
 More broadly, using Bitcoin and Ethereum comes with more responsibilities than the traditional financial system because as a user you are self-sovereign.
 
