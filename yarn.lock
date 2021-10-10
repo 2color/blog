@@ -5660,10 +5660,10 @@ concat-stream@^1.5.0:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
-concurrently@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-5.0.0.tgz#99c7567d009411fbdc98299d553c4b99a978612c"
-  integrity sha512-1yDvK8mduTIdxIxV9C60KoiOySUl/lfekpdbI+U5GXaPrgdffEavFa9QZB3vh68oWOpbCC+TuvxXV9YRPMvUrA==
+concurrently@5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-5.3.0.tgz#7500de6410d043c912b2da27de3202cb489b1e7b"
+  integrity sha512-8MhqOB6PWlBfA2vJ8a0bSFKATOdWlHiQlk11IfmQBPaHVP8oP2gsh2MObE6UR3hqDHqvaIvLTyceNW6obVuFHQ==
   dependencies:
     chalk "^2.4.2"
     date-fns "^2.0.1"
@@ -5671,9 +5671,9 @@ concurrently@5.0.0:
     read-pkg "^4.0.1"
     rxjs "^6.5.2"
     spawn-command "^0.0.2-1"
-    supports-color "^4.5.0"
-    tree-kill "^1.2.1"
-    yargs "^12.0.5"
+    supports-color "^6.1.0"
+    tree-kill "^1.2.2"
+    yargs "^13.3.0"
 
 config-chain@^1.1.11:
   version "1.1.12"
@@ -9607,10 +9607,6 @@ has-cors@1.1.0:
 has-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-1.0.0.tgz#9d9e793165ce017a00f00418c43f942a7b1d11fa"
-
-has-flag@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-2.0.0.tgz#e8207af1cc7b30d446cc70b734b5e8be18f88d51"
 
 has-flag@^3.0.0:
   version "3.0.0"
@@ -18329,12 +18325,6 @@ supports-color@^3.2.3:
   dependencies:
     has-flag "^1.0.0"
 
-supports-color@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.5.0.tgz#be7a0de484dec5c5cddf8b3d59125044912f635b"
-  dependencies:
-    has-flag "^2.0.0"
-
 supports-color@^5.3.0, supports-color@^5.4.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
@@ -18742,10 +18732,10 @@ tr46@^1.0.1:
   version "0.3.9"
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.3.9.tgz#717b8f220cc0bb7b44e40514c22b2e8bbc70d8b9"
 
-tree-kill@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
-  integrity sha512-4hjqbObwlh2dLyW4tcz0Ymw0ggoaVDMveUB9w8kFSQScdRLo0gxO9J7WFcUBo+W3C1TLdFIEwNOWebgZZ0RH9Q==
+tree-kill@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-lines@^1.0.0:
   version "1.1.2"
@@ -20366,7 +20356,7 @@ yargs-parser@^5.0.0:
   dependencies:
     camelcase "^3.0.0"
 
-yargs@^12.0.2, yargs@^12.0.5:
+yargs@^12.0.2:
   version "12.0.5"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-12.0.5.tgz#05f5997b609647b64f66b81e3b4b10a368e7ad13"
   dependencies:
