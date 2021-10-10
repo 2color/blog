@@ -101,14 +101,20 @@ This is where the user experience problem begins because there are so many misco
 
 Creating a crypto wallet is a matter of installing an app on your phone. The first time you open the app, it will create a new private key. Once created, you essentially opened a bank account that is controlled by this private key.
 
-While software wallets are great, they are also more prone to attacks. At the time of writing the highest security is offered by hardware wallets. These are devices that do two things:
+While software wallets are great, they are also more prone to attacks. At the time of writing the highest security is offered by hardware wallets like [Ledger](https://www.ledger.com/) and [Trezor](https://trezor.io/). These are devices that do two things:
 
-* Hold your private key securely so that their keys never leave the hardware wllet
+* Hold your private key securely so that their keys never leave the hardware wallet
 * Create transactions on the device
 
-More broadly, using Bitcoin and Ethereum comes with more responsibilities than the traditional financial system because as a user you are self-sovreign.
+The key idea with hardware wallets is that the private key never leaves the hardware wallet thereby protecting it from theft through viruses and malware attacks (which software wallets are prone to).
 
-Here's the problem: **loose your key and you lost your funds**.
+Both software and hardware wallets have this notion of a recovery a recovery phrase –also known as a seed phrase–. This is a 12 or 24 word sequence that is displayed when you create a new private key and can be used to recover your private key. Typically it's written on paper and stored in a safe. 
+
+If you change phone or lose your hardware wallet, you enter the recovery phase into the new device and regain access to your funds. You can also have 
+
+More broadly, using Bitcoin and Ethereum comes with more responsibilities than the traditional financial system because as a user you are self-sovereign.
+
+Here's the problem: **if lose your key, you lose your funds**.
 
 Many rely on exchanges where they buy coins as their custodian. This approach works, but you risk losing your coins if the exchange gets hacked (as has happened many times).
 
@@ -122,7 +128,7 @@ Social recovery wallets are self-sovereign crypto wallets that allowing the reco
 
 I should note that social recovery wallets are currently constrained to Ethereum because they are, in essence a smart contract deployed to Ethereum.
 
-In summary, a bad user experience has been deterring people from trying out these novel technologies. You have to choose a wallet, understand the trade-offs and learn how to safety store your key. The user experience has been improving significantly with better UIs that abstract the technical details and the development of social recovery mechanisms.
+In summary, a bad user experience has been deterring people from trying out these novel technologies. You have to choose a wallet, understand the trade-offs and learn how to safely store your key. The user experience has been improving significantly with better UIs that abstract the technical details and the development of social recovery mechanisms.
 
 ### Scalability
 
