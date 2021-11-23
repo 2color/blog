@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "@raae/gatsby-remark-oembed": "^0.1.1",
-    "bluebird": "^3.7.1",
+    "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.6.1",
     "gatsby": "^2.32.13",
