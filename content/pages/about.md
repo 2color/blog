@@ -7,7 +7,7 @@ socialImage: ''
 
 Hey, I'm Daniel. I'm a software engineer, writer, public speaker, and maker.
 
-I currently working as a developer advocate at [Prisma](https://www.prisma.io).
+I currently work as a developer advocate at [Prisma](https://www.prisma.io).
 
 I take joy in solving complex problems with elegant solutions by simplifying and distilling core concepts.
 
