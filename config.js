@@ -1,10 +1,11 @@
-'use strict'
+'use strict';
 
 module.exports = {
   url: 'https://norman.life',
   pathPrefix: '/',
-  title: "Daniel Norman's website",
-  subtitle: 'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
+  title: 'Daniel Norman\'s website',
+  subtitle:
+    'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
@@ -14,32 +15,36 @@ module.exports = {
   menu: [
     {
       label: 'Blog',
-      path: '/'
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about/'
+      path: '/pages/about/',
     },
     {
       label: 'Art',
-      path: '/pages/art/'
+      path: '/pages/art/',
     },
     {
       label: 'Podcast',
-      path: '/pages/podcast/'
+      path: '/pages/podcast/',
     },
     {
       label: 'Ceramics',
-      path: '/pages/ceramics/'
+      path: '/pages/ceramics/',
     },
     {
       label: 'Woodworking',
-      path: '/tag/woodworking/'
+      path: '/tag/woodworking/',
     },
     {
       label: 'Tags',
-      path: '/tags/'
-    }
+      path: '/tags/',
+    },
+    {
+      label: 'Technical writing',
+      path: '/pages/technical-writing',
+    },
   ],
   author: {
     name: 'Daniel Norman',
@@ -57,7 +62,7 @@ module.exports = {
       instagram: '',
       line: '',
       gitlab: '',
-      weibo: ''
-    }
-  }
+      weibo: '',
+    },
+  },
 };
