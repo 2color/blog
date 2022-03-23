@@ -22,6 +22,10 @@ module.exports = {
       path: '/pages/about/',
     },
     {
+      label: 'Technical writing',
+      path: '/pages/technical-writing',
+    },
+    {
       label: 'Art',
       path: '/pages/art/',
     },
@@ -40,10 +44,6 @@ module.exports = {
     {
       label: 'Tags',
       path: '/tags/',
-    },
-    {
-      label: 'Technical writing',
-      path: '/pages/technical-writing',
     },
   ],
   author: {
