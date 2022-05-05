@@ -68,17 +68,19 @@ I mostly wrote this blog post as a primer on how I see the future of the Interne
 
 In a [previous article](/posts/why-does-decentralisation-matter/), published 3 years ago, I argued that **decentralisation** is the path towards a healthier Internet – one that puts the power in the hands of individuals.
 
-Since then, there's been tremendous progress on many projects/networks in the decentralisation space that I highly recommend checking out:
+Since then, there's been tremendous progress on many projects/networks in the decentralisation space that I highly recommend learning more about:
 
 * [Ethereum](https://ethereum.org/en/): The community-run technology powering the cryptocurrency, ether (ETH), and thousands of decentralized applications.
 * [Bitcoin](https://bitcoin.org/en/): Decentralised Internet money.
-* [IPFS](https://ipfs.io/) and [Filecoin](https://filecoin.io/): Decentralised storage – like Dropbox without the company.
+* [IPFS](https://ipfs.io/) and [Filecoin](https://filecoin.io/): Decentralised storage – like Dropbox but decentralised without the company. IPFS is an open protocol and Filecoin builds on it by creating a crypto-network that pairs storage providers with users looking to store data.
 * [Ethereum Name System](https://ens.domains/): Decentralised naming system – like DNS but fully decentralised.
 * [Mirror.xyz](https://mirror.xyz/): Decentralized, user-owned, crypto-based network, Mirror’s publishing platform revolutionizes the way we express, share, and monetize our thoughts. Built on Ehtereum.
 * [Klima DAO](https://klimadao.finance/): A carbon-backed digital currency and algorithmic climate protocol that aims to create an economy where more economic activity leads to an acceleration in planetary regeneration rather than more damage to our planet. Built on Ehtereum.
 * [radicle](https://radicle.xyz/): Peer-to-peer stack for building software together. Like GitHub but decentralised.
 
 Each of these projects is worthy of several blog posts on its own. But I think these are going to play a more prominent role in the future of the Internet.
+
+I should point out that **none of this is investment advice**. I'm not an investment advisor; I'm a software engineer who's interested in how these technologies work. As exciting and groundbreaking as some of these projects are, investing in cryptocurrencies is inherently risky.
 
 As of 2017, approximately 1.7 billion people remain unbanked in emerging economies. In the near term, I can see Bitcoin and Ethereum being the leapfrog solution to **banking the unbanked**.
 
