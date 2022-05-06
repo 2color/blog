@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Daniel Norman\'s website',
   subtitle:
-    'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Prisma',
+    'Developer, maker, writer, and meditator with a pinch of curiosity. Currently working as a Developer Advocate at Protocol Labs',
   copyright:
     'Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.',
   disqusShortname: '',
